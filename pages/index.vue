@@ -87,6 +87,7 @@ export default {
 
 .egyptian {
   font-size: 200%;
+  font-family: "Noto Hieroglyphic Egyptian", "Noto Sans", "sans-serif";
 }
 
 .no-results {

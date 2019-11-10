@@ -16,5 +16,6 @@ export default {
 <style scoped>
 .gardiner-sign {
   font-size: 400%;
+  font-family: "Noto Hieroglyphic Egyptian", "sans-serif";
 }
 </style>
