@@ -16,6 +16,7 @@ export default {
 <style scoped>
 .gardiner-sign {
   font-size: 400%;
-  font-family: "Noto Sans Egyptian Hieroglyphs", "sans-serif";
+  font-family: "Aegyptus", "Segoe UI Historic", "Noto Sans Egyptian Hieroglyphs",
+    "sans-serif";
 }
 </style>

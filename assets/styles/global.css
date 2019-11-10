@@ -1,17 +1,14 @@
 @font-face {
   font-family: "Noto Sans Egyptian Hieroglyphs";
-  src: url("/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.eot"); /* IE9 Compat Modes */
-  src: url("/assets/NotoSansEgyptianHieroglyphs-Regular.eot?#iefix")
+  src: local("Noto Sans EgyptHiero"), local("Noto Sans Egyptian Hieroglyphs"),
+    local("NotoSansEgyptianHieroglyphs-Regular");
+  src: url("../fonts/NotoSansEgyptianHieroglyphs-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/NotoSansEgyptianHieroglyphs-Regular.eot?#iefix")
       format("embedded-opentype"),
-    /* IE6-IE8 */ url("/assets/NotoSansEgyptianHieroglyphs-Regular.otf")
-      format("opentype"),
-    /* Open Type Font */
-      url("/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff")
-      format("woff"),
-    /* Modern Browsers */
-      url("/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.woff2")
-      format("woff2"); /* Modern Browsers */
-  src: url("/assets/fonts/NotoSansEgyptianHieroglyphs-Regular.ttf")
+    url("../fonts/NotoSansEgyptianHieroglyphs-Regular.otf") format("opentype"),
+    url("../fonts/NotoSansEgyptianHieroglyphs-Regular.woff") format("woff"),
+    url("../fonts/NotoSansEgyptianHieroglyphs-Regular.woff2") format("woff2");
+  src: url("../fonts/NotoSansEgyptianHieroglyphs-Regular.ttf")
     format("truetype");
   font-weight: normal;
   font-style: normal;
