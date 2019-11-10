@@ -87,7 +87,7 @@ export default {
 
 .egyptian {
   font-size: 200%;
-  font-family: "Aegyptus", "Noto Sans Egyptian Hieroglyphs", "Noto Sans",
+  font-family: "Aegyptus", "Segoe UI Historic", "Noto Sans Egyptian Hieroglyphs",
     "sans-serif";
 }
 

@@ -1,7 +1,7 @@
 <template>
   <div class="grid-item">
-    <span class="gardiner-number">{{ hieroglyph.id }}</span>
-    <span class="gardiner-sign">{{ hieroglyph.hieroglyph }}</span>
+    <div class="gardiner-number">{{ hieroglyph.id }}</div>
+    <div class="gardiner-sign egyptian">{{ hieroglyph.hieroglyph }}</div>
   </div>
 </template>
 
@@ -14,9 +14,13 @@ export default {
 </script>
 
 <style scoped>
+.gardiner-number {
+  width: 30%;
+  float: left;
+}
 .gardiner-sign {
   font-size: 400%;
-  font-family: "Aegyptus", "Segoe UI Historic", "Noto Sans Egyptian Hieroglyphs",
-    "sans-serif";
+  width: 70%;
+  float: right;
 }
 </style>

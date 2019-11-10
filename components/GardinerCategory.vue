@@ -32,5 +32,6 @@ export default {
 }
 .category-name {
   margin-top: 2em;
+  margin-bottom: 0.6em;
 }
 </style>
