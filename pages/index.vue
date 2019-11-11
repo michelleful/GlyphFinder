@@ -19,9 +19,11 @@
             the meaning or pronunciation of a prominent word that
             contains the hieroglyph ("mother" or "mwt").
           </li>
+          <li>&nbsp;by shape (one of ":tall", ":low", ":narrow", ":broad"), as classified in the original Gardiner sign list.
+            Remember to include the colon!</li>
         </ul>
         <p>
-          For example, the suggested searches above all retrieve
+          For example, the suggested searches apart from shape above all retrieve
           G14
           <span
             class="egyptian"

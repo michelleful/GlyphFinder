@@ -16,14 +16,25 @@
       "z",
       "sA"
     ],
-    "keywords": ["men", "male person", "masculine", "I", "me", "my", "name"],
+    "keywords": [
+      "men",
+      "male person",
+      "masculine",
+      "I",
+      "me",
+      "my",
+      "name"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A2",
     "hieroglyph": "𓀁",
     "description": "man with hand to mouth",
-    "pronunciations": ["i"],
+    "pronunciations": [
+      "i"
+    ],
     "keywords": [
       "eating",
       "drinking",
@@ -39,14 +50,22 @@
       "silent one",
       "silence"
     ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A3",
     "hieroglyph": "𓀂",
     "description": "man sitting on heel",
-    "pronunciations": ["Hmsi"],
-    "keywords": ["dwelling", "seated man", "council"],
+    "pronunciations": [
+      "Hmsi"
+    ],
+    "keywords": [
+      "dwelling",
+      "seated man",
+      "council"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -65,19 +84,33 @@
       "hiding",
       "concealing"
     ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A5",
     "hieroglyph": "𓀄",
     "description": "crouching man hiding behind wall",
-    "pronunciations": ["imn", "kAp"],
+    "pronunciations": [
+      "imn",
+      "kAp"
+    ],
     "keywords": [
       "secretive",
       "hide",
       "concealing",
       "seated man hiding behind wall"
     ],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A5A",
+    "hieroglyph": "𓀅",
+    "description": "seated man hiding behind wall",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -96,6 +129,25 @@
       "cleansing",
       "libation stone"
     ],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A6A",
+    "hieroglyph": "𓀇",
+    "description": "seated man reaching for libation stone, under vase from which water flows",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A6B",
+    "hieroglyph": "𓀈",
+    "description": "seated man reaching down, under vase from which water flows",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -116,21 +168,35 @@
       "sitting down",
       "reposing"
     ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A8",
     "hieroglyph": "𓀊",
     "description": "man performing hnw-rite",
-    "pronunciations": ["hnw"],
-    "keywords": ["jubilation", "jubilant", "praise", "praising"],
+    "pronunciations": [
+      "hnw"
+    ],
+    "keywords": [
+      "jubilation",
+      "jubilant",
+      "praise",
+      "praising"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A9",
     "hieroglyph": "𓀋",
     "description": "man steadying basket on head",
-    "pronunciations": ["kAt", "ATp", "Atp", "fAi"],
+    "pronunciations": [
+      "kAt",
+      "ATp",
+      "Atp",
+      "fAi"
+    ],
     "keywords": [
       "working",
       "loading",
@@ -138,70 +204,140 @@
       "sailing",
       "construction project"
     ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A10",
     "hieroglyph": "𓀌",
     "description": "seated man holding oar",
-    "pronunciations": ["sqdw"],
-    "keywords": ["sailor", "traveler", "traveller", "sailing"],
+    "pronunciations": [
+      "sqdw"
+    ],
+    "keywords": [
+      "sailor",
+      "traveler",
+      "traveller",
+      "sailing"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A11",
     "hieroglyph": "𓀍",
     "description": "seated man holding scepter of authority and shepherd's crook",
-    "pronunciations": ["xnms"],
-    "keywords": ["friend"],
+    "pronunciations": [
+      "xnms"
+    ],
+    "keywords": [
+      "friend"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A12",
     "hieroglyph": "𓀎",
     "description": "soldier with bow and quiver",
-    "pronunciations": ["mSa"],
-    "keywords": ["army"],
+    "pronunciations": [
+      "mSa"
+    ],
+    "keywords": [
+      "army"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A13",
     "hieroglyph": "𓀏",
     "description": "man with arms tied behind his back",
-    "pronunciations": ["xfty"],
-    "keywords": ["enemy", "enemies", "foes"],
+    "pronunciations": [
+      "xfty"
+    ],
+    "keywords": [
+      "enemy",
+      "enemies",
+      "foes"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A14",
     "hieroglyph": "𓀐",
     "description": "falling man with blood streaming from his head",
-    "pronunciations": ["mwt"],
-    "keywords": ["die", "dying", "enemy", "enemies", "foes"],
+    "pronunciations": [
+      "mwt"
+    ],
+    "keywords": [
+      "die",
+      "dying",
+      "enemy",
+      "enemies",
+      "foes"
+    ],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A14A",
+    "hieroglyph": "𓀑",
+    "description": "man whose head is hit with an axe",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A15",
     "hieroglyph": "𓀒",
     "description": "man falling",
-    "pronunciations": ["xr", "sxrt"],
-    "keywords": ["overthrowing"],
+    "pronunciations": [
+      "xr",
+      "sxrt"
+    ],
+    "keywords": [
+      "overthrowing"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A16",
     "hieroglyph": "𓀓",
     "description": "man bowing down",
-    "pronunciations": ["ksi"],
+    "pronunciations": [
+      "ksi"
+    ],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A17",
     "hieroglyph": "𓀔",
     "description": "child sitting with hand to mouth",
-    "pronunciations": ["Sri", "Xrd"],
-    "keywords": ["young", "youth", "children"],
+    "pronunciations": [
+      "Sri",
+      "Xrd"
+    ],
+    "keywords": [
+      "young",
+      "youth",
+      "children"
+    ],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A17A",
+    "hieroglyph": "𓀕",
+    "description": "child sitting with arms hanging down",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -209,15 +345,28 @@
     "hieroglyph": "𓀖",
     "description": "child wearing red crown",
     "pronunciations": [],
-    "keywords": ["child king"],
+    "keywords": [
+      "child king"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A19",
     "hieroglyph": "𓀗",
     "description": "bent man leaning on staff",
-    "pronunciations": ["iAw", "smsw", "wr"],
-    "keywords": ["old age", "great one", "eldest", "stick"],
+    "pronunciations": [
+      "iAw",
+      "smsw",
+      "wr"
+    ],
+    "keywords": [
+      "old age",
+      "great one",
+      "eldest",
+      "stick"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -225,15 +374,28 @@
     "hieroglyph": "𓀘",
     "description": "man leaning on forked staff",
     "pronunciations": [],
-    "keywords": ["old age", "great one", "eldest", "stick"],
+    "keywords": [
+      "old age",
+      "great one",
+      "eldest",
+      "stick"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A21",
     "hieroglyph": "𓀙",
     "description": "man holding staff with handkerchief",
-    "pronunciations": ["sr"],
-    "keywords": ["officials", "nobles", "stick"],
+    "pronunciations": [
+      "sr"
+    ],
+    "keywords": [
+      "officials",
+      "nobles",
+      "stick"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -241,55 +403,101 @@
     "hieroglyph": "𓀚",
     "description": "statue of man with staff and scepter of authority",
     "pronunciations": [],
-    "keywords": ["stick"],
+    "keywords": [
+      "stick"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A23",
     "hieroglyph": "𓀛",
     "description": "king with staff and mace with round head",
-    "pronunciations": ["ity"],
-    "keywords": ["sovereign"],
+    "pronunciations": [
+      "ity"
+    ],
+    "keywords": [
+      "sovereign"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A24",
     "hieroglyph": "𓀜",
     "description": "man striking with both hands",
-    "pronunciations": ["Hwi", "nHm", "nxt"],
-    "keywords": ["strike", "take away", "taking away", "strong", "strength"],
+    "pronunciations": [
+      "Hwi",
+      "nHm",
+      "nxt"
+    ],
+    "keywords": [
+      "strike",
+      "take away",
+      "taking away",
+      "strong",
+      "strength"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A25",
     "hieroglyph": "𓀝",
     "description": "man striking, with left arm hanging behind back",
-    "pronunciations": ["hwi"],
-    "keywords": ["strike"],
+    "pronunciations": [
+      "hwi"
+    ],
+    "keywords": [
+      "strike"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A26",
     "hieroglyph": "𓀞",
     "description": "man with one arm pointing forward",
-    "pronunciations": ["nis", "i"],
-    "keywords": ["calling", "vocative", "oh"],
+    "pronunciations": [
+      "nis",
+      "i"
+    ],
+    "keywords": [
+      "calling",
+      "vocative",
+      "oh"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A27",
     "hieroglyph": "𓀟",
     "description": "hastening man",
-    "pronunciations": ["in"],
-    "keywords": ["agent particle", "by"],
+    "pronunciations": [
+      "in"
+    ],
+    "keywords": [
+      "agent particle",
+      "by"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A28",
     "hieroglyph": "𓀠",
     "description": "man with hands raised on either side",
-    "pronunciations": ["qA", "HAi"],
-    "keywords": ["high", "rejoice", "rejoicing"],
+    "pronunciations": [
+      "qA",
+      "HAi"
+    ],
+    "keywords": [
+      "high",
+      "rejoice",
+      "rejoicing"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -298,14 +506,25 @@
     "description": "man upside down",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A30",
     "hieroglyph": "𓀢",
     "description": "man with hands raised in front",
-    "pronunciations": ["iAw", "dwA"],
-    "keywords": ["giving praise", "praising", "adoring", "adore", "adoration"],
+    "pronunciations": [
+      "iAw",
+      "dwA"
+    ],
+    "keywords": [
+      "giving praise",
+      "praising",
+      "adoring",
+      "adore",
+      "adoration"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -313,7 +532,11 @@
     "hieroglyph": "𓀣",
     "description": "man with hands raised behind him",
     "pronunciations": [],
-    "keywords": ["turning away", "turn away"],
+    "keywords": [
+      "turning away",
+      "turn away"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -321,7 +544,19 @@
     "hieroglyph": "𓀤",
     "description": "man dancing with arms to the back",
     "pronunciations": [],
-    "keywords": ["dance"],
+    "keywords": [
+      "dance"
+    ],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A32A",
+    "hieroglyph": "𓀥",
+    "description": "man dancing with arms to the front",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -329,31 +564,49 @@
     "hieroglyph": "𓀦",
     "description": "man with stick and bundle on shoulder",
     "pronunciations": [],
-    "keywords": ["wanderer", "herdsman", "herdsmen"],
+    "keywords": [
+      "wanderer",
+      "herdsman",
+      "herdsmen"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A34",
     "hieroglyph": "𓀧",
     "description": "man pounding in a mortar",
-    "pronunciations": ["xwsi"],
-    "keywords": ["building"],
+    "pronunciations": [
+      "xwsi"
+    ],
+    "keywords": [
+      "building"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A35",
     "hieroglyph": "𓀨",
     "description": "man building wall",
-    "pronunciations": ["qd"],
+    "pronunciations": [
+      "qd"
+    ],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A36",
     "hieroglyph": "𓀩",
     "description": "man kneading into vessel",
-    "pronunciations": ["afty"],
-    "keywords": ["brewers"],
+    "pronunciations": [
+      "afty"
+    ],
+    "keywords": [
+      "brewers"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -361,15 +614,24 @@
     "hieroglyph": "𓀪",
     "description": "man in vessel",
     "pronunciations": [],
-    "keywords": ["brewers"],
+    "keywords": [
+      "brewers"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A38",
     "hieroglyph": "𓀫",
     "description": "man holding necks of two emblematic animals with panther heads",
-    "pronunciations": ["qis", "qsi"],
-    "keywords": ["cusae (town)"],
+    "pronunciations": [
+      "qis",
+      "qsi"
+    ],
+    "keywords": [
+      "cusae (town)"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -378,22 +640,50 @@
     "description": "man on two giraffes",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A40",
     "hieroglyph": "𓀭",
     "description": "seated god",
-    "pronunciations": ["i", "j", "wi", "wj", "ink", "jnk", "kwi"],
+    "pronunciations": [
+      "i",
+      "j",
+      "wi",
+      "wj",
+      "ink",
+      "jnk",
+      "kwi"
+    ],
     "keywords": [],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A40A",
+    "hieroglyph": "𓀮",
+    "description": "seated god with  sceptre",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A41",
     "hieroglyph": "𓀯",
     "description": "king with uraeus",
-    "pronunciations": ["nsw", "Hm", "nb"],
-    "keywords": ["seated king", "majesty", "lord"],
+    "pronunciations": [
+      "nsw",
+      "Hm",
+      "nb"
+    ],
+    "keywords": [
+      "seated king",
+      "majesty",
+      "lord"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -402,6 +692,16 @@
     "description": "king with uraeus and flagellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A42A",
+    "hieroglyph": "𓀱",
+    "description": "king with uraeus and flagellum",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -409,15 +709,33 @@
     "hieroglyph": "𓀲",
     "description": "king wearing white crown",
     "pronunciations": [],
-    "keywords": ["Upper Egypt"],
+    "keywords": [
+      "Upper Egypt"
+    ],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A43A",
+    "hieroglyph": "𓀳",
+    "description": "king wearing white crown with  sceptre",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A44",
     "hieroglyph": "𓀴",
     "description": "king wearing red crown with flagellum",
-    "pronunciations": ["bity", "bjtj"],
-    "keywords": ["Lower Egypt"],
+    "pronunciations": [
+      "bity",
+      "bjtj"
+    ],
+    "keywords": [
+      "Lower Egypt"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -426,38 +744,69 @@
     "description": "king wearing red crown",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "A"
+  },
+  {
+    "id": "A45A",
+    "hieroglyph": "𓀶",
+    "description": "king wearing red crown with  sceptre",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A46",
     "hieroglyph": "𓀷",
-    "description": "king wearing red crown with flagellum",
+    "description": "king wearing red crown with  flagellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A47",
     "hieroglyph": "𓀸",
     "description": "shepherd seated and wrapped in mantle, holding stick",
-    "pronunciations": ["sAw", "mniw", "mnjw"],
-    "keywords": ["guard", "herdsman", "herdsmen"],
+    "pronunciations": [
+      "sAw",
+      "mniw",
+      "mnjw"
+    ],
+    "keywords": [
+      "guard",
+      "herdsman",
+      "herdsmen"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A48",
     "hieroglyph": "𓀹",
     "description": "beardless man seated and holding knife",
-    "pronunciations": ["iry"],
-    "keywords": ["relating to"],
+    "pronunciations": [
+      "iry"
+    ],
+    "keywords": [
+      "relating to"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A49",
     "hieroglyph": "𓀺",
     "description": "seated Syrian holding stick",
-    "pronunciations": ["aAmw"],
-    "keywords": ["foreigners", "Asiatics"],
+    "pronunciations": [
+      "aAmw"
+    ],
+    "keywords": [
+      "foreigners",
+      "Asiatics"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -465,15 +814,25 @@
     "hieroglyph": "𓀻",
     "description": "noble on chair",
     "pronunciations": [],
-    "keywords": ["revered person", "deceased", "dead person"],
+    "keywords": [
+      "revered person",
+      "deceased",
+      "dead person"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A51",
     "hieroglyph": "𓀼",
     "description": "noble on chair with flagellum",
-    "pronunciations": ["Spsi"],
-    "keywords": ["flail"],
+    "pronunciations": [
+      "Spsi"
+    ],
+    "keywords": [
+      "flail"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -488,6 +847,7 @@
       "deceased",
       "dead person"
     ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -495,7 +855,13 @@
     "hieroglyph": "𓀾",
     "description": "standing mummy",
     "pronunciations": [],
-    "keywords": ["upright", "statue", "likeness", "form"],
+    "keywords": [
+      "upright",
+      "statue",
+      "likeness",
+      "form"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -503,15 +869,26 @@
     "hieroglyph": "𓀿",
     "description": "lying mummy",
     "pronunciations": [],
-    "keywords": ["recumbent", "dead"],
+    "keywords": [
+      "recumbent",
+      "dead"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "A55",
     "hieroglyph": "𓁀",
     "description": "mummy on bed",
-    "pronunciations": ["sDr"],
-    "keywords": ["lie down", "lying down", "dead"],
+    "pronunciations": [
+      "sDr"
+    ],
+    "keywords": [
+      "lie down",
+      "lying down",
+      "dead"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -520,6 +897,7 @@
     "description": "seated man holding stick",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -528,6 +906,7 @@
     "description": "man holding loaf on mat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -536,6 +915,7 @@
     "description": "man applying hoe to ground",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -543,7 +923,11 @@
     "hieroglyph": "𓁄",
     "description": "man threatening with stick",
     "pronunciations": [],
-    "keywords": ["drive off", "driving off"],
+    "keywords": [
+      "drive off",
+      "driving off"
+    ],
+    "shape": [],
     "category": "A"
   },
   {
@@ -552,6 +936,7 @@
     "description": "man sowing seeds",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -560,6 +945,7 @@
     "description": "man looking over his shoulder",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -568,6 +954,7 @@
     "description": "Asiatic",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -576,6 +963,7 @@
     "description": "king on throne holding staff",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -584,6 +972,7 @@
     "description": "man sitting on heels holding forward cup",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -592,6 +981,7 @@
     "description": "man wearing tunic with fringes and holding mace",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -600,6 +990,7 @@
     "description": "man holding sistrum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -608,6 +999,7 @@
     "description": "dwarf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -616,6 +1008,7 @@
     "description": "man holding up knife",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -624,6 +1017,7 @@
     "description": "seated man with raised right arm and left arm hanging down",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
@@ -632,14 +1026,24 @@
     "description": "seated man with raised arms",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "A"
   },
   {
     "id": "B1",
     "hieroglyph": "𓁐",
     "description": "seated woman",
-    "pronunciations": ["i", "j"],
-    "keywords": ["women", "I", "me", "my"],
+    "pronunciations": [
+      "i",
+      "j"
+    ],
+    "keywords": [
+      "women",
+      "I",
+      "me",
+      "my"
+    ],
+    "shape": [],
     "category": "B"
   },
   {
@@ -647,15 +1051,24 @@
     "hieroglyph": "𓁑",
     "description": "pregnant woman",
     "pronunciations": [],
-    "keywords": ["expecting", "with child"],
+    "keywords": [
+      "expecting",
+      "with child"
+    ],
+    "shape": [],
     "category": "B"
   },
   {
     "id": "B3",
     "hieroglyph": "𓁒",
     "description": "woman giving birth",
-    "pronunciations": ["msi"],
-    "keywords": ["bearing child"],
+    "pronunciations": [
+      "msi"
+    ],
+    "keywords": [
+      "bearing child"
+    ],
+    "shape": [],
     "category": "B"
   },
   {
@@ -664,22 +1077,44 @@
     "description": "combination of woman giving birth and three skins tied together",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "B"
   },
   {
     "id": "B5",
     "hieroglyph": "𓁔",
     "description": "woman suckling child",
-    "pronunciations": ["mnat"],
-    "keywords": ["nursing child", "wet nurse"],
+    "pronunciations": [
+      "mnat"
+    ],
+    "keywords": [
+      "nursing child",
+      "wet nurse"
+    ],
+    "shape": [],
+    "category": "B"
+  },
+  {
+    "id": "B5A",
+    "hieroglyph": "𓁕",
+    "description": "woman suckling child (simplified)",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "B"
   },
   {
     "id": "B6",
     "hieroglyph": "𓁖",
     "description": "woman on chair with child on lap",
-    "pronunciations": ["rnn"],
-    "keywords": ["nurse", "nursing"],
+    "pronunciations": [
+      "rnn"
+    ],
+    "keywords": [
+      "nurse",
+      "nursing"
+    ],
+    "shape": [],
     "category": "B"
   },
   {
@@ -687,7 +1122,10 @@
     "hieroglyph": "𓁗",
     "description": "queen wearing diadem and holding flower",
     "pronunciations": [],
-    "keywords": ["queen's name"],
+    "keywords": [
+      "queen's name"
+    ],
+    "shape": [],
     "category": "B"
   },
   {
@@ -696,6 +1134,7 @@
     "description": "woman holding lotus flower",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "B"
   },
   {
@@ -704,22 +1143,66 @@
     "description": "woman holding sistrum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "B"
   },
   {
     "id": "C1",
     "hieroglyph": "𓁚",
     "description": "god with sun-disk and uraeus",
-    "pronunciations": ["ra"],
-    "keywords": ["Ra", "Re", "sun god", "sun-god"],
+    "pronunciations": [
+      "ra"
+    ],
+    "keywords": [
+      "Ra",
+      "Re",
+      "sun god",
+      "sun-god"
+    ],
+    "shape": [],
     "category": "C"
   },
   {
     "id": "C2",
     "hieroglyph": "𓁛",
     "description": "god with falcon head and sun-disk holding ankh",
-    "pronunciations": ["ra"],
-    "keywords": ["Ra", "Re", "sun god", "sun-god"],
+    "pronunciations": [
+      "ra"
+    ],
+    "keywords": [
+      "Ra",
+      "Re",
+      "sun god",
+      "sun-god"
+    ],
+    "shape": [],
+    "category": "C"
+  },
+  {
+    "id": "C2A",
+    "hieroglyph": "𓁜",
+    "description": "god with falcon head and sun-disk",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "C"
+  },
+  {
+    "id": "C2B",
+    "hieroglyph": "𓁝",
+    "description": "C2A reversed",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "C"
+  },
+  {
+    "id": "C2C",
+    "hieroglyph": "𓁞",
+    "description": "C2 reversed",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -728,6 +1211,7 @@
     "description": "god with ibis head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -736,6 +1220,7 @@
     "description": "god with ram head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -744,6 +1229,7 @@
     "description": "god with ram head holding ankh",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -752,6 +1238,7 @@
     "description": "god with jackal head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -760,6 +1247,7 @@
     "description": "god with Seth-animal head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -768,6 +1256,7 @@
     "description": "ithyphallic god with two plumes, uplifted arm and flagellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -776,6 +1265,7 @@
     "description": "goddess with horned sun-disk",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -784,6 +1274,16 @@
     "description": "goddess with feather",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "C"
+  },
+  {
+    "id": "C10A",
+    "hieroglyph": "𓁧",
+    "description": "goddess with feather holding ankh",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -792,6 +1292,7 @@
     "description": "god with arms supporting the sky and palm branch on head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -800,6 +1301,7 @@
     "description": "god with two plumes and scepter",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -808,6 +1310,7 @@
     "description": "C12 reversed",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -816,6 +1319,7 @@
     "description": "god with two plumes and scimitar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -824,6 +1328,7 @@
     "description": "C14 reversed",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -832,6 +1337,7 @@
     "description": "god wearing red crown with ankh",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -840,6 +1346,7 @@
     "description": "god with falcon head and two plumes",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -848,6 +1355,7 @@
     "description": "squatting god",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -856,6 +1364,7 @@
     "description": "mummy-shaped god",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -864,6 +1373,7 @@
     "description": "mummy-shaped god in shrine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -872,6 +1382,7 @@
     "description": "Bes",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -880,6 +1391,7 @@
     "description": "god with falcon head and moon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -888,6 +1400,7 @@
     "description": "goddess with feline head and sun with uraeus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -896,6 +1409,7 @@
     "description": "god wearing red crown with scepter",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "C"
   },
   {
@@ -904,6 +1418,7 @@
     "description": "head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -912,6 +1427,7 @@
     "description": "face",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -920,6 +1436,7 @@
     "description": "hair",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -928,6 +1445,7 @@
     "description": "eye",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -936,6 +1454,7 @@
     "description": "eye touched up with paint",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -944,6 +1463,7 @@
     "description": "eye with painted upper lid",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -952,6 +1472,7 @@
     "description": "eye with painted lower lid",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -960,6 +1481,16 @@
     "description": "eye enclosed in sandy tract",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D8A",
+    "hieroglyph": "𓁾",
+    "description": "eye with painted lower lid enclosed in sandy tract",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -968,6 +1499,7 @@
     "description": "eye with flowing tears",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -976,6 +1508,7 @@
     "description": "Eye of Horus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -984,6 +1517,7 @@
     "description": "left part of the eye of Horus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -992,6 +1526,7 @@
     "description": "pupil",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1000,6 +1535,7 @@
     "description": "eyebrow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1008,6 +1544,7 @@
     "description": "right part of eye of Horus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1016,6 +1553,7 @@
     "description": "diagonal marking of eye of Horus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1024,6 +1562,7 @@
     "description": "vertical marking of eye of Horus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1032,6 +1571,7 @@
     "description": "diagonal and vertical markings of eye of Horus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1040,6 +1580,7 @@
     "description": "ear",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1048,6 +1589,7 @@
     "description": "nose, eye and cheek",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1056,6 +1598,7 @@
     "description": "nose, eye and cheek (cursive)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1064,6 +1607,7 @@
     "description": "mouth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1072,6 +1616,7 @@
     "description": "mouth with two strokes",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1080,6 +1625,7 @@
     "description": "mouth with three strokes",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1088,6 +1634,7 @@
     "description": "upper lip with teeth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1096,6 +1643,7 @@
     "description": "lips",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1104,6 +1652,7 @@
     "description": "liquid issuing from lips",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1112,6 +1661,16 @@
     "description": "small breast",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D27A",
+    "hieroglyph": "𓂒",
+    "description": "large breast",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1120,6 +1679,7 @@
     "description": "two arms upraised",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1128,6 +1688,7 @@
     "description": "combination of hieroglyphs D28 and R12",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1136,6 +1697,7 @@
     "description": "two arms upraised with tail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1144,6 +1706,16 @@
     "description": "arms embracing club",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D31A",
+    "hieroglyph": "𓂗",
+    "description": "two arms uppraised and club",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1152,6 +1724,7 @@
     "description": "arms embracing",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1160,6 +1733,7 @@
     "description": "arms rowing",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1168,6 +1742,7 @@
     "description": "armswith shieldand battle axe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1176,6 +1751,7 @@
     "description": "arms with shield and mace",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1184,6 +1760,7 @@
     "description": "arms in gesture of negation",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1192,6 +1769,7 @@
     "description": "forearm (palm upwards)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1200,6 +1778,7 @@
     "description": "forearm with bread cone",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1208,6 +1787,7 @@
     "description": "forearm with rounded loaf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1216,6 +1796,7 @@
     "description": "forearm with bowl",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1224,6 +1805,7 @@
     "description": "forearm with stick",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1232,6 +1814,7 @@
     "description": "forearm with palm down and bent upper arm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1240,6 +1823,7 @@
     "description": "forearm with palm down and straight upper arm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1248,6 +1832,7 @@
     "description": "forearm with flail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1256,6 +1841,7 @@
     "description": "arm with sekhem scepter",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1264,6 +1850,7 @@
     "description": "arm with wand",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1272,6 +1859,16 @@
     "description": "hand",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D46A",
+    "hieroglyph": "𓂨",
+    "description": "liquid falling from hand",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1280,6 +1877,7 @@
     "description": "hand with palm up",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1288,6 +1886,16 @@
     "description": "hand without thumb",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D48A",
+    "hieroglyph": "𓂫",
+    "description": "hand holding egg",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1296,6 +1904,7 @@
     "description": "fist",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1304,6 +1913,88 @@
     "description": "one finger",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50A",
+    "hieroglyph": "𓂮",
+    "description": "two fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50B",
+    "hieroglyph": "𓂯",
+    "description": "three fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50C",
+    "hieroglyph": "𓂰",
+    "description": "four fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50D",
+    "hieroglyph": "𓂱",
+    "description": "five fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50E",
+    "hieroglyph": "𓂲",
+    "description": "six fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50F",
+    "hieroglyph": "𓂳",
+    "description": "seven fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50G",
+    "hieroglyph": "𓂴",
+    "description": "eight fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50H",
+    "hieroglyph": "𓂵",
+    "description": "nine fingers",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D50I",
+    "hieroglyph": "𓂶",
+    "description": "five fingers (row)",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1312,6 +2003,7 @@
     "description": "one finger (horizontal)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1320,6 +2012,25 @@
     "description": "phallus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D52A",
+    "hieroglyph": "𓂹",
+    "description": "phallus with folded cloth",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D53",
+    "hieroglyph": "𓂺",
+    "description": "phallus with emission",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1328,6 +2039,16 @@
     "description": "legs walking",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D54A",
+    "hieroglyph": "𓂼",
+    "description": "hieratic legs walking",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1336,6 +2057,7 @@
     "description": "legs walking backwards",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1344,6 +2066,7 @@
     "description": "leg",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1352,6 +2075,7 @@
     "description": "leg with knife",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1360,6 +2084,7 @@
     "description": "foot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1368,6 +2093,7 @@
     "description": "foot and forearm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1376,6 +2102,7 @@
     "description": "foot under vaase from which water flows",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1384,6 +2111,7 @@
     "description": "three toes oriented leftward",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1392,6 +2120,7 @@
     "description": "three toes oriented rightward",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1400,6 +2129,7 @@
     "description": "two toes oriented leftward",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1408,6 +2138,7 @@
     "description": "hand with palm down",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1416,6 +2147,7 @@
     "description": "lock of hair",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1424,6 +2156,7 @@
     "description": "arm with reed pen",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1432,6 +2165,79 @@
     "description": "one dot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67A",
+    "hieroglyph": "𓃊",
+    "description": "two dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67B",
+    "hieroglyph": "𓃋",
+    "description": "three dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67C",
+    "hieroglyph": "𓃌",
+    "description": "four dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67D",
+    "hieroglyph": "𓃍",
+    "description": "five dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67E",
+    "hieroglyph": "𓃎",
+    "description": "six dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67F",
+    "hieroglyph": "𓃏",
+    "description": "seven dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67G",
+    "hieroglyph": "𓃐",
+    "description": "eight dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "D"
+  },
+  {
+    "id": "D67H",
+    "hieroglyph": "𓃑",
+    "description": "nine dots",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "D"
   },
   {
@@ -1440,6 +2246,7 @@
     "description": "bull",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1448,6 +2255,7 @@
     "description": "bull charging",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1456,6 +2264,7 @@
     "description": "calf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1464,6 +2273,7 @@
     "description": "sacred cow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1472,6 +2282,7 @@
     "description": "cow suckling calf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1480,6 +2291,7 @@
     "description": "horse",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1488,6 +2300,7 @@
     "description": "donkey",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1496,6 +2309,16 @@
     "description": "kid",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "E"
+  },
+  {
+    "id": "E8A",
+    "hieroglyph": "𓃚",
+    "description": "kid jumping",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1504,6 +2327,16 @@
     "description": "newborn hartebeest",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "E"
+  },
+  {
+    "id": "E9A",
+    "hieroglyph": "𓃜",
+    "description": "mature bovine lying down",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1512,6 +2345,7 @@
     "description": "ram",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1520,6 +2354,7 @@
     "description": "ram",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1528,6 +2363,7 @@
     "description": "pig",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1536,6 +2372,7 @@
     "description": "cat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1544,6 +2381,7 @@
     "description": "dog",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1552,6 +2390,7 @@
     "description": "lying canine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1560,6 +2399,16 @@
     "description": "lying canine on shrine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "E"
+  },
+  {
+    "id": "E16A",
+    "hieroglyph": "𓃤",
+    "description": "lying canine on shrine with flagellum",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1568,6 +2417,16 @@
     "description": "jackal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "E"
+  },
+  {
+    "id": "E17A",
+    "hieroglyph": "𓃦",
+    "description": "jackal looking back",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1576,6 +2435,7 @@
     "description": "wolf on standard",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1584,6 +2444,7 @@
     "description": "wolf on standard with mace",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1592,6 +2453,16 @@
     "description": "Set-animal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "E"
+  },
+  {
+    "id": "E20A",
+    "hieroglyph": "𓃪",
+    "description": "Set-animal on basket",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1600,6 +2471,7 @@
     "description": "lying Set-animal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1608,6 +2480,7 @@
     "description": "lion",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1616,6 +2489,7 @@
     "description": "lying lion",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1624,6 +2498,7 @@
     "description": "panther",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1632,6 +2507,7 @@
     "description": "hippopotamus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1640,6 +2516,7 @@
     "description": "elephant",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1648,6 +2525,7 @@
     "description": "giraffe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1656,6 +2534,16 @@
     "description": "oryx",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "E"
+  },
+  {
+    "id": "E28A",
+    "hieroglyph": "𓃳",
+    "description": "oryx with irrigation system",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1664,6 +2552,7 @@
     "description": "gazelle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1672,6 +2561,7 @@
     "description": "ibex",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1680,6 +2570,7 @@
     "description": "goat with collar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1688,6 +2579,7 @@
     "description": "baboon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1696,6 +2588,7 @@
     "description": "monkey",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1704,6 +2597,16 @@
     "description": "hare",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "E"
+  },
+  {
+    "id": "E34A",
+    "hieroglyph": "𓃺",
+    "description": "hare (low)",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1712,6 +2615,7 @@
     "description": "baboon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1720,6 +2624,7 @@
     "description": "baboon with recptacle and basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1728,6 +2633,7 @@
     "description": "long-horned bull",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "E"
   },
   {
@@ -1736,6 +2642,7 @@
     "description": "ox head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1744,6 +2651,7 @@
     "description": "bovine head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1752,6 +2660,7 @@
     "description": "charging ox head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1760,6 +2669,7 @@
     "description": "hippopotamus head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1768,6 +2678,7 @@
     "description": "forepart of lion",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1776,6 +2687,7 @@
     "description": "hartebeest head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1784,6 +2696,7 @@
     "description": "forepart of hartebeest",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1792,6 +2705,7 @@
     "description": "ram head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1800,6 +2714,7 @@
     "description": "forepart of ram",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1808,6 +2723,7 @@
     "description": "leopardhead",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1816,6 +2732,7 @@
     "description": "head and neck of animal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1824,6 +2741,7 @@
     "description": "head and neck of animal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1832,6 +2750,7 @@
     "description": "head and neck of animal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1840,6 +2759,7 @@
     "description": "horns",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1848,6 +2768,7 @@
     "description": "horns",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1856,6 +2777,7 @@
     "description": "horns with palm branch",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1864,6 +2786,7 @@
     "description": "horns with palm branch and sun",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1872,6 +2795,7 @@
     "description": "horn",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1880,6 +2804,7 @@
     "description": "horn and vase from which water flows",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1888,6 +2813,7 @@
     "description": "tusk",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1896,6 +2822,7 @@
     "description": "lower jaw-bone of ox",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1904,6 +2831,7 @@
     "description": "tongue",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1912,6 +2840,7 @@
     "description": "ear of bovine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1920,6 +2849,7 @@
     "description": "hieratic ear of bovine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1928,14 +2858,16 @@
     "description": "hind-quarters of lion",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
     "id": "F23",
     "hieroglyph": "𓄗",
-    "description": "foreleg of ox",
+    "description": "forelegof ox",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1944,6 +2876,7 @@
     "description": "F23 reversed",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1952,6 +2885,7 @@
     "description": "leg ofox",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1960,6 +2894,7 @@
     "description": "skin of goat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1968,6 +2903,7 @@
     "description": "skin of cow with bent tail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1976,6 +2912,7 @@
     "description": "skin of cow with straight tail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1984,6 +2921,7 @@
     "description": "cow's skin pierced by arrow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -1992,6 +2930,7 @@
     "description": "water-skin",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2000,6 +2939,7 @@
     "description": "three skins tied together",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2008,6 +2948,7 @@
     "description": "three skins tied together",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2016,6 +2957,7 @@
     "description": "animal's belly",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2024,6 +2966,7 @@
     "description": "tail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2032,6 +2975,7 @@
     "description": "heart",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2040,6 +2984,7 @@
     "description": "heart andwindpipe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2048,6 +2993,7 @@
     "description": "lung and windpipe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2056,6 +3002,7 @@
     "description": "backbone and ribs and spinal cord",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2064,6 +3011,7 @@
     "description": "backbone and ribs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2072,6 +3020,16 @@
     "description": "backbone and ribs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "F"
+  },
+  {
+    "id": "F38A",
+    "hieroglyph": "𓄩",
+    "description": "backbone and ribs and spinal cord",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2080,6 +3038,7 @@
     "description": "backbone and spinal cord",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2088,6 +3047,7 @@
     "description": "backbone and spinal cords",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2096,6 +3056,7 @@
     "description": "vertebrae",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2104,6 +3065,7 @@
     "description": "rib",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2112,6 +3074,7 @@
     "description": "ribs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2120,6 +3083,7 @@
     "description": "bone with meat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2128,6 +3092,7 @@
     "description": "uterus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2136,6 +3101,7 @@
     "description": "uterus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2144,6 +3110,7 @@
     "description": "intestine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2152,6 +3119,7 @@
     "description": "intestine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2160,6 +3128,7 @@
     "description": "intestine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2168,6 +3137,7 @@
     "description": "intestine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2176,6 +3146,7 @@
     "description": "intestine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2184,6 +3155,7 @@
     "description": "intestine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2192,6 +3164,7 @@
     "description": "combination of F46 and S29",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2200,6 +3173,7 @@
     "description": "piece of flesh",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2208,6 +3182,7 @@
     "description": "three pieces of flesh horizontally",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2216,6 +3191,7 @@
     "description": "three pieces of flesh vertically",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2224,6 +3200,7 @@
     "description": "F51 reversed",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2232,6 +3209,7 @@
     "description": "excrement",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2240,6 +3218,7 @@
     "description": "divine rod with ram head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "F"
   },
   {
@@ -2248,6 +3227,7 @@
     "description": "Egyptian vulture",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2256,6 +3236,7 @@
     "description": "two Egyptian vultures",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2264,6 +3245,7 @@
     "description": "combination of Egyptian vulture and sickle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2272,6 +3254,7 @@
     "description": "buzzard",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2280,6 +3263,7 @@
     "description": "falcon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2288,6 +3272,7 @@
     "description": "combination of falcon and flaggellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2296,6 +3281,7 @@
     "description": "falcon on basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2304,6 +3290,7 @@
     "description": "falcon on standard",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2312,6 +3299,7 @@
     "description": "falcon in boat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2320,6 +3308,7 @@
     "description": "falcon in boat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2328,6 +3317,7 @@
     "description": "falcon on collar of beads",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2336,6 +3326,7 @@
     "description": "falcon with sun on head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2344,6 +3335,7 @@
     "description": "falcon in Sokar barque",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2352,6 +3344,7 @@
     "description": "image of falcon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2360,6 +3353,7 @@
     "description": "image of falcon on standard",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2368,6 +3362,7 @@
     "description": "combination of image of falcon and flagellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2376,6 +3371,7 @@
     "description": "image of falcon with two plumes",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2383,7 +3379,10 @@
     "hieroglyph": "𓅐",
     "description": "vulture",
     "pronunciations": [],
-    "keywords": ["mother"],
+    "keywords": [
+      "mother"
+    ],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2392,6 +3391,7 @@
     "description": "combination of vulture and flagellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2400,6 +3400,7 @@
     "description": "vulture and cobra each on a basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2408,6 +3409,7 @@
     "description": "owl",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2416,6 +3418,7 @@
     "description": "two owls",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2424,6 +3427,7 @@
     "description": "combination of owl and forearm with conical loaf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2432,6 +3436,7 @@
     "description": "combination of owl and forearm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2440,6 +3445,7 @@
     "description": "combination of owl and mouth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2448,6 +3454,7 @@
     "description": "guinea-fowl",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2456,6 +3463,7 @@
     "description": "hoopoe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2464,6 +3472,7 @@
     "description": "lapwing",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2472,6 +3481,7 @@
     "description": "lapwing with twisted wings",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2480,6 +3490,7 @@
     "description": "northern bald ibis",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2488,6 +3499,7 @@
     "description": "sacred Ibis on standard",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2496,6 +3508,7 @@
     "description": "sacred Ibis",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2504,6 +3517,7 @@
     "description": "flamingo",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2512,6 +3526,7 @@
     "description": "glossy ibis",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2520,6 +3535,7 @@
     "description": "saddle-billed stork",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2528,6 +3544,7 @@
     "description": "three saddle-billed storks",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2536,6 +3553,7 @@
     "description": "heron",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2544,6 +3562,7 @@
     "description": "heron on perch",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2552,6 +3571,7 @@
     "description": "cattle egret",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2560,6 +3580,7 @@
     "description": "ostrich",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2568,6 +3589,7 @@
     "description": "cormorant",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2576,6 +3598,7 @@
     "description": "swallow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2584,6 +3607,7 @@
     "description": "swallow (low)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2592,6 +3616,7 @@
     "description": "sparrow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2600,6 +3625,7 @@
     "description": "sparrow (low)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2608,6 +3634,7 @@
     "description": "white-fronted goose",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2616,6 +3643,7 @@
     "description": "pintail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2624,6 +3652,7 @@
     "description": "pintail flying",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2632,6 +3661,7 @@
     "description": "pintail alighting",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2640,6 +3670,7 @@
     "description": "widgeon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2648,6 +3679,7 @@
     "description": "quail chick",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2656,6 +3688,7 @@
     "description": "combination of quail chick and flat loaf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2664,6 +3697,7 @@
     "description": "two quail chicks",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2672,6 +3706,7 @@
     "description": "combination of quail chick and forearm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2680,6 +3715,7 @@
     "description": "combination of quail chick and forearm with conical loaf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2688,6 +3724,7 @@
     "description": "combination of quail chick and sickle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2696,6 +3733,7 @@
     "description": "duckling",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2704,6 +3742,7 @@
     "description": "three ducklings in nest",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2712,6 +3751,7 @@
     "description": "three ducklings in pool",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2720,6 +3760,7 @@
     "description": "two plovers",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2728,6 +3769,7 @@
     "description": "bird pecking at fish",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2736,6 +3778,7 @@
     "description": "goose picking up grain",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2744,6 +3787,7 @@
     "description": "human-headed bird with bowl with smoke",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2752,6 +3796,7 @@
     "description": "plucked bird",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "G"
   },
   {
@@ -2760,6 +3805,7 @@
     "description": "head of pintail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2768,6 +3814,7 @@
     "description": "head of crested bird",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2776,6 +3823,7 @@
     "description": "head of spoonbill",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2784,6 +3832,7 @@
     "description": "head of vulture",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2792,6 +3841,7 @@
     "description": "wing",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2800,6 +3850,7 @@
     "description": "feather",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2808,6 +3859,7 @@
     "description": "hieratic feather",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2816,6 +3868,7 @@
     "description": "claw",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2824,6 +3877,7 @@
     "description": "egg",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "H"
   },
   {
@@ -2832,6 +3886,7 @@
     "description": "gecko",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2840,6 +3895,7 @@
     "description": "turtle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2848,6 +3904,7 @@
     "description": "crocodile",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2856,6 +3913,7 @@
     "description": "crocodileon shrine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2864,6 +3922,7 @@
     "description": "crocodile with curved tail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2872,6 +3931,7 @@
     "description": "image of crocodile",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2880,6 +3940,7 @@
     "description": "crocodile scales",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2888,6 +3949,7 @@
     "description": "frog",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2896,6 +3958,7 @@
     "description": "tadpole",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2904,6 +3967,7 @@
     "description": "horned viper",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2912,6 +3976,7 @@
     "description": "horned viper crawling out of enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2920,6 +3985,7 @@
     "description": "cobra",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2928,6 +3994,7 @@
     "description": "cobra with feather",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2936,6 +4003,7 @@
     "description": "two cobras",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2944,6 +4012,7 @@
     "description": "combination of cobra, flat loaf and sandy tract",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2952,6 +4021,7 @@
     "description": "erect cobra",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2960,6 +4030,7 @@
     "description": "erect cobra on basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2968,6 +4039,7 @@
     "description": "snake",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2976,6 +4048,7 @@
     "description": "snake",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "I"
   },
   {
@@ -2984,6 +4057,7 @@
     "description": "tilapia",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -2992,6 +4066,7 @@
     "description": "barbel",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -3000,6 +4075,7 @@
     "description": "mullet",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -3008,6 +4084,7 @@
     "description": "elephant-snout fish",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -3016,6 +4093,7 @@
     "description": "Petrocephalus bane",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -3024,6 +4102,7 @@
     "description": "fish scale",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -3032,6 +4111,7 @@
     "description": "puffer",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -3040,6 +4120,7 @@
     "description": "catfish",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "K"
   },
   {
@@ -3048,6 +4129,7 @@
     "description": "dung beetle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3056,6 +4138,7 @@
     "description": "bee",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3064,6 +4147,7 @@
     "description": "combination of bee, sedge and two flat loafs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3072,6 +4156,7 @@
     "description": "fly",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3080,6 +4165,7 @@
     "description": "locust",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3088,6 +4174,7 @@
     "description": "centipede",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3096,6 +4183,7 @@
     "description": "shell",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3104,6 +4192,7 @@
     "description": "L6 reversed",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3112,6 +4201,7 @@
     "description": "scorpion",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3120,6 +4210,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "L"
   },
   {
@@ -3128,6 +4219,7 @@
     "description": "tree",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3136,6 +4228,7 @@
     "description": "combination of tree and branch",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3144,6 +4237,7 @@
     "description": "combination of tree and horned viper",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3152,6 +4246,7 @@
     "description": "plant",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3160,6 +4255,16 @@
     "description": "branch",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M3A",
+    "hieroglyph": "𓆲",
+    "description": "combination of owl and branch",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3168,6 +4273,7 @@
     "description": "palm branch",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3176,6 +4282,7 @@
     "description": "combination of palm branch and flat loaf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3184,6 +4291,7 @@
     "description": "combination of palm branch and mouth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3192,6 +4300,7 @@
     "description": "combination of palm branch and stool",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3200,6 +4309,7 @@
     "description": "pool with lotus flowers",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3208,6 +4318,7 @@
     "description": "lotus flower",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3216,6 +4327,7 @@
     "description": "lotus bud with straight stem",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3224,6 +4336,7 @@
     "description": "lotus bud with winding stem",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3232,6 +4345,7 @@
     "description": "flower on long twisted stalk",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3239,7 +4353,80 @@
     "hieroglyph": "𓆼",
     "description": "one lotus plant",
     "pronunciations": [],
+    "keywords": ["1000", "one thousand"],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12A",
+    "hieroglyph": "𓆽",
+    "description": "two lotus plants",
+    "pronunciations": [],
     "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12B",
+    "hieroglyph": "𓆾",
+    "description": "three lotus plants",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12C",
+    "hieroglyph": "𓆿",
+    "description": "four lotus plants",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12D",
+    "hieroglyph": "𓇀",
+    "description": "five lotus plants",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12E",
+    "hieroglyph": "𓇁",
+    "description": "six lotus plants",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12F",
+    "hieroglyph": "𓇂",
+    "description": "seven lotus plants",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12G",
+    "hieroglyph": "𓇃",
+    "description": "eight lotus plants",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "M"
+  },
+  {
+    "id": "M12H",
+    "hieroglyph": "𓇄",
+    "description": "nine lotus plants",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3248,6 +4435,7 @@
     "description": "papyrusstem",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3256,6 +4444,7 @@
     "description": "combination of papyrus and cobra",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3264,6 +4453,7 @@
     "description": "clump of papyrus with buds",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3272,6 +4462,7 @@
     "description": "combination of clump of papyrus with buds and village",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3280,6 +4471,7 @@
     "description": "clump of papyrus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3288,6 +4480,7 @@
     "description": "combination of clump of papyrus and village",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3296,6 +4489,7 @@
     "description": "reed",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3304,6 +4498,7 @@
     "description": "two reeds",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3312,6 +4507,7 @@
     "description": "combination of reed and legs walking",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3320,6 +4516,7 @@
     "description": "heaped conical cakes between reed and club",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3328,6 +4525,7 @@
     "description": "field of reeds",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3336,6 +4534,7 @@
     "description": "reeds with root",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3344,6 +4543,7 @@
     "description": "rush",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3352,6 +4552,7 @@
     "description": "two rushes",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3360,6 +4561,7 @@
     "description": "sedge",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3368,6 +4570,7 @@
     "description": "combination of sedge and mouth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3376,6 +4579,7 @@
     "description": "lily",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3384,6 +4588,7 @@
     "description": "combination of flowering sedge and mouth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3392,6 +4597,7 @@
     "description": "floweringsedge",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3400,6 +4606,7 @@
     "description": "combination of flowering sedge and forearm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3408,6 +4615,7 @@
     "description": "combination of flowering sedge and hobble",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3416,6 +4624,7 @@
     "description": "three lilies on village",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3423,7 +4632,8 @@
     "hieroglyph": "𓇛",
     "description": "seed-pod",
     "pronunciations": [],
-    "keywords": [],
+    "keywords": ["chilli pepper", "chili pepper"],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3432,6 +4642,7 @@
     "description": "root",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3440,6 +4651,7 @@
     "description": "rhizome",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3448,6 +4660,7 @@
     "description": "tree in vase",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3456,6 +4669,7 @@
     "description": "rhizome",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3464,6 +4678,7 @@
     "description": "3 grains horizontally",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3472,6 +4687,7 @@
     "description": "3 grains vertically",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3480,6 +4696,7 @@
     "description": "3 grains in triangular arrangement",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3488,6 +4705,7 @@
     "description": "ear of emmer",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3496,6 +4714,7 @@
     "description": "stack(of grain)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3504,6 +4723,7 @@
     "description": "bundle of flax",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3512,6 +4732,7 @@
     "description": "bundle of flax",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3520,6 +4741,7 @@
     "description": "wide bundle of flax",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3528,6 +4750,7 @@
     "description": "basket of fruit or grain",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3536,6 +4759,7 @@
     "description": "bundle of reeds",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3544,6 +4768,7 @@
     "description": "bundle of reeds",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3552,6 +4777,7 @@
     "description": "piece of wood",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3560,6 +4786,7 @@
     "description": "flower",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3568,6 +4795,7 @@
     "description": "vine on trellis",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3576,6 +4804,7 @@
     "description": "thorn",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "M"
   },
   {
@@ -3584,6 +4813,7 @@
     "description": "sky",
     "pronunciations": [],
     "keywords": [],
+    "shape": [":low", ":broad"],
     "category": "N"
   },
   {
@@ -3592,6 +4822,7 @@
     "description": "sky with sceptre",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3600,6 +4831,7 @@
     "description": "sky with sceptre",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3608,6 +4840,7 @@
     "description": "sky with rain",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3616,6 +4849,7 @@
     "description": "sun",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3624,6 +4858,7 @@
     "description": "sun with uraeus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3632,6 +4867,7 @@
     "description": "combination of sun and butcher's block",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3640,6 +4876,7 @@
     "description": "sunshine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3648,6 +4885,7 @@
     "description": "moon with lower half obscured",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3656,6 +4894,7 @@
     "description": "moon with lower section obscured",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3664,6 +4903,7 @@
     "description": "crescent moon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3672,6 +4912,7 @@
     "description": "crescent moon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3680,6 +4921,7 @@
     "description": "combination of crescent moon and star",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3688,6 +4930,7 @@
     "description": "star",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3696,6 +4939,7 @@
     "description": "star in circle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3704,6 +4948,7 @@
     "description": "land with grains",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3712,6 +4957,7 @@
     "description": "land",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3720,6 +4966,7 @@
     "description": "sandy tract",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3728,6 +4975,7 @@
     "description": "combination of sandy tract andripple of water",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3736,6 +4984,7 @@
     "description": "combination of roll of breadand bolt",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3744,6 +4993,7 @@
     "description": "two sandy tracts",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3752,6 +5002,7 @@
     "description": "tongue of land",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3760,6 +5011,7 @@
     "description": "short tongue of land",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3768,6 +5020,7 @@
     "description": "broad tongue of land",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3776,6 +5029,7 @@
     "description": "irrigation canal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3784,6 +5038,7 @@
     "description": "irrigation canal system",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3792,6 +5047,7 @@
     "description": "three hills",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3800,6 +5056,7 @@
     "description": "three hills (low)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3808,6 +5065,7 @@
     "description": "two hills",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3816,6 +5074,7 @@
     "description": "sun over mountain",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3824,6 +5083,7 @@
     "description": "rays of sun over hill",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3832,6 +5092,7 @@
     "description": "slope of hill",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3840,6 +5101,7 @@
     "description": "mound of earth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3848,6 +5110,7 @@
     "description": "road with shrubs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3856,6 +5119,7 @@
     "description": "lump of clay",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3864,6 +5128,7 @@
     "description": "grain",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3872,6 +5137,7 @@
     "description": "three grains",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3880,6 +5146,7 @@
     "description": "ingot of metal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3888,6 +5155,7 @@
     "description": "ingot of metal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3896,6 +5164,7 @@
     "description": "ripple of water",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3904,6 +5173,7 @@
     "description": "three ripples of water",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3912,6 +5182,7 @@
     "description": "canal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3920,6 +5191,7 @@
     "description": "pool",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3928,6 +5200,7 @@
     "description": "pool",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3936,6 +5209,7 @@
     "description": "deep pool",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3944,6 +5218,7 @@
     "description": "pool with water",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3952,6 +5227,7 @@
     "description": "poolwith legs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3960,6 +5236,7 @@
     "description": "well with ripple of water",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3968,6 +5245,7 @@
     "description": "well with line of water",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "N"
   },
   {
@@ -3976,14 +5254,16 @@
     "description": "house",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
     "id": "O1A",
     "hieroglyph": "𓉑",
-    "description": "combination of house and sandal strap",
+    "description": "combination of house and sandle-strap",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -3992,6 +5272,7 @@
     "description": "combination of house and mace with round head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4000,6 +5281,7 @@
     "description": "combination of house, oar, tall loaf and beer jug",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4008,6 +5290,7 @@
     "description": "shelter",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4016,6 +5299,7 @@
     "description": "winding wall from upper-left corner",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4024,6 +5308,7 @@
     "description": "winding wall from lower-left corner",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4032,6 +5317,7 @@
     "description": "enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4040,6 +5326,7 @@
     "description": "opening of ḥwt-enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4048,6 +5335,7 @@
     "description": "opening of ḥwt-enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4056,6 +5344,7 @@
     "description": "opening of ḥwt-enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4064,6 +5353,7 @@
     "description": "closing of ḥwt-enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4072,6 +5362,7 @@
     "description": "closing of ḥwt-enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4080,6 +5371,7 @@
     "description": "closing of ḥwt-enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4088,6 +5380,7 @@
     "description": "combination of enclosure and flat loaf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4096,6 +5389,7 @@
     "description": "combination of enclosure, flat loaf and wooden column",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4104,6 +5398,7 @@
     "description": "combination of enclosure, flat loaf and basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4112,6 +5407,7 @@
     "description": "combination of enclosure and falcon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4120,6 +5416,7 @@
     "description": "combination of enclosure and sandle-strap",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4128,6 +5425,7 @@
     "description": "combination of enclosure and bee",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4136,6 +5434,7 @@
     "description": "combination of shrine in profile and face",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4144,6 +5443,7 @@
     "description": "palace",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4152,6 +5452,7 @@
     "description": "combination of palace and forearm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4160,6 +5461,7 @@
     "description": "battlemented enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4168,6 +5470,7 @@
     "description": "part of battlemented enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4176,6 +5479,7 @@
     "description": "enclosure with cup and flat loaf",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4184,6 +5488,7 @@
     "description": "gateway with serpents",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4192,6 +5497,7 @@
     "description": "open gateway with serpents",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4200,6 +5506,7 @@
     "description": "shrine in profile",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4208,6 +5515,7 @@
     "description": "shrine with fence",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4216,6 +5524,7 @@
     "description": "shrine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4224,6 +5533,7 @@
     "description": "shrine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4232,6 +5542,7 @@
     "description": "shrine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4240,6 +5551,7 @@
     "description": "façade of shrine",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4248,6 +5560,7 @@
     "description": "booth with pole",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4256,6 +5569,7 @@
     "description": "double platform",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4264,6 +5578,7 @@
     "description": "pyramid",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4272,6 +5587,7 @@
     "description": "pedestal of sun temple",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4280,6 +5596,7 @@
     "description": "obelisk",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4288,6 +5605,7 @@
     "description": "obelisk and pedestal of sun temple",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4296,6 +5614,7 @@
     "description": "stela",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4304,6 +5623,7 @@
     "description": "hall of columns",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4312,6 +5632,7 @@
     "description": "column",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4320,6 +5641,7 @@
     "description": "horizontal wooden column",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4328,6 +5650,7 @@
     "description": "vertical wooden column",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4336,6 +5659,7 @@
     "description": "support",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4344,6 +5668,7 @@
     "description": "four supports",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4352,6 +5677,7 @@
     "description": "door",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4360,6 +5686,7 @@
     "description": "gateway",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4368,6 +5695,7 @@
     "description": "façade of palace",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4376,6 +5704,7 @@
     "description": "closing of srḫ-enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4384,6 +5713,7 @@
     "description": "door bolt",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4392,6 +5722,7 @@
     "description": "combination of bolt and legs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4400,6 +5731,7 @@
     "description": "wall",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4408,6 +5740,7 @@
     "description": "opening of oval fortified wall enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4416,6 +5749,7 @@
     "description": "closing of oval fortified wall enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4424,6 +5758,7 @@
     "description": "opening of square fortified wall enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4432,6 +5767,7 @@
     "description": "closure of square fortified wall enclosure",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4440,6 +5776,7 @@
     "description": "falling wall",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4448,6 +5785,7 @@
     "description": "corner of wall",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4456,6 +5794,7 @@
     "description": "stone",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4464,6 +5803,7 @@
     "description": "stair single",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4472,6 +5812,7 @@
     "description": "double stairway",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4480,6 +5821,7 @@
     "description": "fence",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4488,6 +5830,7 @@
     "description": "low fence",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4496,6 +5839,7 @@
     "description": "emblem of Min",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4504,6 +5848,7 @@
     "description": "domed building",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4512,6 +5857,7 @@
     "description": "domed building",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4520,6 +5866,7 @@
     "description": "enclosed mound",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4528,6 +5875,7 @@
     "description": "enclosed mound",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4536,6 +5884,7 @@
     "description": "village",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4544,6 +5893,7 @@
     "description": "threshing floor",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4552,6 +5902,7 @@
     "description": "hieratic threshing floor",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4560,6 +5911,7 @@
     "description": "O50A reversed",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4568,6 +5920,7 @@
     "description": "pile of grain",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "O"
   },
   {
@@ -4576,6 +5929,7 @@
     "description": "boat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4584,6 +5938,7 @@
     "description": "boat upside down",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4592,6 +5947,7 @@
     "description": "ship under sail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4600,6 +5956,7 @@
     "description": "sacred barque",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4608,6 +5965,7 @@
     "description": "sacred barque without steering oar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4616,6 +5974,7 @@
     "description": "boat with net",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4624,6 +5983,7 @@
     "description": "sail",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4632,6 +5992,7 @@
     "description": "mast",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4640,6 +6001,7 @@
     "description": "combination of maste and forearm",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4648,6 +6010,7 @@
     "description": "oar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4656,6 +6019,7 @@
     "description": "combination of oar and horned viper",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4664,6 +6028,7 @@
     "description": "rudder",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4672,6 +6037,7 @@
     "description": "mooringpost",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "P"
   },
   {
@@ -4680,6 +6046,7 @@
     "description": "seatthrone",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Q"
   },
   {
@@ -4688,6 +6055,7 @@
     "description": "carryingchair",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Q"
   },
   {
@@ -4696,6 +6064,7 @@
     "description": "stool",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Q"
   },
   {
@@ -4704,6 +6073,7 @@
     "description": "headrest",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Q"
   },
   {
@@ -4712,6 +6082,7 @@
     "description": "chest",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Q"
   },
   {
@@ -4720,6 +6091,7 @@
     "description": "sarcophagus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Q"
   },
   {
@@ -4728,6 +6100,7 @@
     "description": "brazier",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Q"
   },
   {
@@ -4736,6 +6109,7 @@
     "description": "high table with offerings",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4744,6 +6118,7 @@
     "description": "table with slices of bread",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4752,6 +6127,7 @@
     "description": "high table with offerings",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4760,6 +6136,7 @@
     "description": "low table with offerings",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4768,6 +6145,7 @@
     "description": "low table",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4776,6 +6154,7 @@
     "description": "low table with offerings (simplified)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4784,6 +6163,7 @@
     "description": "loaf on mat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4792,6 +6172,7 @@
     "description": "narrow censer",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4800,6 +6181,7 @@
     "description": "broad censer",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4808,6 +6190,7 @@
     "description": "bowl with smoke",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4816,6 +6199,7 @@
     "description": "Cloth on pole",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4824,6 +6208,7 @@
     "description": "combination of cloth on pole and bag",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4832,6 +6217,7 @@
     "description": "combination of cloth on pole, butcher's block and slope of hill",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4840,6 +6226,7 @@
     "description": "combination of cloth on pole and butcher's block",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4848,6 +6235,7 @@
     "description": "reed column",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4856,6 +6244,7 @@
     "description": "standard",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4864,6 +6253,7 @@
     "description": "falcon and feather on standard",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4872,6 +6262,7 @@
     "description": "Emblemof the West",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4880,6 +6271,7 @@
     "description": "spear emblem",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4888,6 +6280,7 @@
     "description": "sceptre with feathers and string",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4896,6 +6289,7 @@
     "description": "sceptre with feathers",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4904,6 +6298,7 @@
     "description": "wig on pole",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4912,6 +6307,7 @@
     "description": "combination of wig on pole and irrigation canal system",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4920,6 +6316,7 @@
     "description": "scepter with feather",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4928,6 +6325,7 @@
     "description": "flower with horns",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4936,6 +6334,7 @@
     "description": "flower with horns",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4944,6 +6343,7 @@
     "description": "two narrow belemnites",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4952,6 +6352,7 @@
     "description": "two broad belemnites",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4960,6 +6361,7 @@
     "description": "two bows tied horizontally",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4968,6 +6370,7 @@
     "description": "two bows tied vertically",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4976,6 +6379,7 @@
     "description": "combination of land, lung and windpipe, lily, and papyrus",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4984,6 +6388,7 @@
     "description": "two arrows crossed over a shield",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -4992,6 +6397,7 @@
     "description": "Bat",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -5000,6 +6406,7 @@
     "description": "niche with serpent",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "R"
   },
   {
@@ -5008,6 +6415,7 @@
     "description": "white crown",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5016,6 +6424,7 @@
     "description": "combination of white crown and basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5024,6 +6433,7 @@
     "description": "combination of white crown and village",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5032,6 +6442,7 @@
     "description": "red crown",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5040,6 +6451,7 @@
     "description": "combination of red crown and basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5048,6 +6460,7 @@
     "description": "Pschent Crown",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5056,6 +6469,7 @@
     "description": "combination of Pschent Crown and basket",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5064,6 +6478,7 @@
     "description": "combination of red crown and village",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5072,6 +6487,7 @@
     "description": "blue crown",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5080,6 +6496,7 @@
     "description": "Atefcrown",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5088,6 +6505,7 @@
     "description": "shutitwo-featheradornment",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5096,6 +6514,7 @@
     "description": "headband",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5104,6 +6523,7 @@
     "description": "broad collar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5112,6 +6532,7 @@
     "description": "collar of beads",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5120,6 +6541,7 @@
     "description": "combination of collar of beads and foot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5128,6 +6550,7 @@
     "description": "combination of collar of beads and mace with round head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5136,6 +6559,7 @@
     "description": "combination of collar of beads and sceptre",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5144,6 +6568,7 @@
     "description": "combination of collar of beads and sceptre",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5152,6 +6577,7 @@
     "description": "pectoral",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5160,6 +6586,7 @@
     "description": "pectoral",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5168,6 +6595,7 @@
     "description": "pectoral",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5176,6 +6604,7 @@
     "description": "girdle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5184,6 +6613,7 @@
     "description": "\"menatnecklaceandcounterpoise\"",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5192,6 +6622,7 @@
     "description": "sealwith necklace",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5200,6 +6631,7 @@
     "description": "necklace with seal",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5208,6 +6640,7 @@
     "description": "ring",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5216,6 +6649,7 @@
     "description": "shoulder-knot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5224,6 +6658,7 @@
     "description": "two whipswith shen ring",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5232,6 +6667,7 @@
     "description": "girdle knot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5240,6 +6676,7 @@
     "description": "garment with ties",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5248,6 +6685,7 @@
     "description": "apron",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5256,6 +6694,7 @@
     "description": "apron",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5264,6 +6703,7 @@
     "description": "apron",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5272,6 +6712,7 @@
     "description": "cloth with two strands",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5280,6 +6721,7 @@
     "description": "cloth with fringe on top and folded cloth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5288,6 +6730,7 @@
     "description": "folded cloth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5296,6 +6739,7 @@
     "description": "combination of folded cloth and horned viper",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5304,6 +6748,7 @@
     "description": "combination of folded cloth and sickle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5312,6 +6757,7 @@
     "description": "cloth with fringe on the side",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5320,6 +6766,7 @@
     "description": "sandle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5328,6 +6775,7 @@
     "description": "lifesandle-strap",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5336,6 +6784,7 @@
     "description": "sunshade",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5344,6 +6793,7 @@
     "description": "sunshade",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5352,6 +6802,7 @@
     "description": "sunshade",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5360,6 +6811,7 @@
     "description": "fan",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5368,6 +6820,7 @@
     "description": "crook",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5376,6 +6829,7 @@
     "description": "shepherd's crook",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5384,6 +6838,7 @@
     "description": "wꜣssceptre(uꜣs)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5392,6 +6847,7 @@
     "description": "sceptre",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5400,6 +6856,7 @@
     "description": "Sekhemscepter",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5408,6 +6865,7 @@
     "description": "walking stick",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5416,6 +6874,7 @@
     "description": "walking stick with flagellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5424,6 +6883,7 @@
     "description": "flagellum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5432,6 +6892,7 @@
     "description": "covering for head and neck",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "S"
   },
   {
@@ -5440,6 +6901,7 @@
     "description": "mace with flat head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5448,6 +6910,7 @@
     "description": "mace with round head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5456,6 +6919,7 @@
     "description": "mace with round head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5464,6 +6928,7 @@
     "description": "combination of mace with round head and two hills",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5472,6 +6937,7 @@
     "description": "mace with strap",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5480,6 +6946,7 @@
     "description": "combination of mace with round head and cobra",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5488,6 +6955,7 @@
     "description": "combination of mace with round head and two cobras",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5496,6 +6964,7 @@
     "description": "axe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5504,6 +6973,7 @@
     "description": "axe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5512,6 +6982,7 @@
     "description": "dagger",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5520,6 +6991,7 @@
     "description": "dagger",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5528,6 +7000,7 @@
     "description": "bow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5536,6 +7009,7 @@
     "description": "bow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5544,6 +7018,7 @@
     "description": "composite bow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5552,6 +7027,7 @@
     "description": "arrow",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5560,6 +7036,7 @@
     "description": "two crossed arrows",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5568,6 +7045,7 @@
     "description": "bowstring",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5576,6 +7054,7 @@
     "description": "joined pieces of wood",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5584,6 +7063,7 @@
     "description": "throw stick vertically",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5592,6 +7072,7 @@
     "description": "throw stick slanted",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5600,6 +7081,7 @@
     "description": "scimitar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5608,6 +7090,7 @@
     "description": "scimitar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5616,6 +7099,7 @@
     "description": "chariot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5624,6 +7108,7 @@
     "description": "crook with package attached",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5632,6 +7117,7 @@
     "description": "harpoon head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5640,6 +7126,7 @@
     "description": "harpoon head",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5648,6 +7135,7 @@
     "description": "harpoon",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5656,6 +7144,7 @@
     "description": "arrowhead",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5664,6 +7153,7 @@
     "description": "arrowhead",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5672,6 +7162,7 @@
     "description": "fishingnet",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5680,6 +7171,7 @@
     "description": "float",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5688,6 +7180,7 @@
     "description": "birdtrap",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5696,6 +7189,7 @@
     "description": "trap",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5704,6 +7198,7 @@
     "description": "butcher's block",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5712,6 +7207,7 @@
     "description": "butcher's block with knife",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5720,6 +7216,7 @@
     "description": "knife",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5728,6 +7225,7 @@
     "description": "knife-sharpener",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5736,6 +7234,7 @@
     "description": "combination of knife and legs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5744,6 +7243,7 @@
     "description": "combination of knife and folded cloth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5752,6 +7252,7 @@
     "description": "knife-sharpener of butcher",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5760,6 +7261,7 @@
     "description": "combination of knife-sharpener and folded cloth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5768,6 +7270,7 @@
     "description": "butcher's knife",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5776,6 +7279,7 @@
     "description": "butcher's knife",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5784,6 +7288,7 @@
     "description": "shield",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "T"
   },
   {
@@ -5792,6 +7297,7 @@
     "description": "sickle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5800,6 +7306,7 @@
     "description": "sickle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5808,6 +7315,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5816,6 +7324,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5824,6 +7333,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5832,6 +7342,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5840,6 +7351,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5848,6 +7360,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5856,6 +7369,7 @@
     "description": "hoe",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5864,6 +7378,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5872,6 +7387,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5880,6 +7396,7 @@
     "description": "grain measure (with plural, for grain particles)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5888,6 +7405,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5896,6 +7414,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5904,6 +7423,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5912,6 +7432,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5920,6 +7441,7 @@
     "description": "sled(sledge)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5928,6 +7450,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5936,6 +7459,7 @@
     "description": "Pick, opening earth",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5944,6 +7468,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5952,6 +7477,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5960,6 +7486,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5968,6 +7495,7 @@
     "description": "adze-on-block",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5976,6 +7504,7 @@
     "description": "clapper-(of-bell)tool/instrumentforked-staff, etc.",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5984,6 +7513,7 @@
     "description": "chisel",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -5992,6 +7522,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6000,6 +7531,7 @@
     "description": "handdrill(hieroglyph)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6008,6 +7540,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6016,6 +7549,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6024,6 +7558,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6032,6 +7567,7 @@
     "description": "fire-drill",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6040,6 +7576,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6048,6 +7585,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6056,6 +7594,7 @@
     "description": "kiln",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6064,6 +7603,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6072,6 +7612,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6080,6 +7621,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6088,6 +7630,7 @@
     "description": "'pestle'-(curved top)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6096,6 +7639,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6104,6 +7648,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6112,6 +7657,7 @@
     "description": "fuller's-club",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6120,6 +7666,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6128,6 +7675,7 @@
     "description": "scale",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6136,6 +7684,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6144,6 +7693,7 @@
     "description": "a support-(to lift)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6152,6 +7702,7 @@
     "description": "plummet",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6160,6 +7711,7 @@
     "description": "pitchfork",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "U"
   },
   {
@@ -6168,6 +7720,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6176,6 +7729,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6184,6 +7738,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6192,6 +7747,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6200,6 +7756,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6208,6 +7765,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6216,6 +7774,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6224,6 +7783,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6232,6 +7792,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6240,6 +7801,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6248,6 +7810,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6256,6 +7819,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6264,6 +7828,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6272,6 +7837,7 @@
     "description": "lasso",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6280,6 +7846,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6288,6 +7855,7 @@
     "description": "rope-(shape)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6296,6 +7864,7 @@
     "description": "rope-(shape)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6304,6 +7873,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6312,6 +7882,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6320,6 +7891,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6328,6 +7900,7 @@
     "description": "shenring",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6336,6 +7909,7 @@
     "description": "cartouche(hieroglyph)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6344,6 +7918,7 @@
     "description": "cartouche-(divided)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6352,6 +7927,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6360,6 +7936,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6368,6 +7945,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6376,6 +7954,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6384,6 +7963,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6392,6 +7972,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6400,6 +7981,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6408,6 +7990,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6416,6 +7999,7 @@
     "description": "Tethering rope w/ walking legs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6424,6 +8008,7 @@
     "description": "cattlehobble--(bil.)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6432,6 +8017,7 @@
     "description": "lifesaver",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6440,6 +8026,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6448,6 +8035,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6456,6 +8044,7 @@
     "description": "\"cattle hobble\"",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6464,6 +8053,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6472,6 +8062,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6480,6 +8071,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6488,6 +8080,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6496,6 +8089,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6504,6 +8098,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6512,6 +8107,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6520,6 +8116,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6528,6 +8125,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6536,6 +8134,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6544,6 +8143,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6552,6 +8152,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6560,6 +8161,7 @@
     "description": "Fetter + Cobra",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6568,6 +8170,7 @@
     "description": "whip",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6576,6 +8179,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6584,6 +8188,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6592,6 +8197,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6600,6 +8206,7 @@
     "description": "\"command staff\"",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6608,6 +8215,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6616,6 +8224,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6624,6 +8233,7 @@
     "description": "'eternity'a-long-timeperiodwick-Ra-wickGod-Huh",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6632,6 +8242,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6640,6 +8251,7 @@
     "description": "(fiber)swab(straw broom)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6648,6 +8260,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6656,6 +8269,7 @@
     "description": "basket(hieroglyph)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6664,6 +8278,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6672,6 +8287,7 @@
     "description": "basket-with-handle(hieroglyph)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6680,6 +8296,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6688,6 +8305,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6696,6 +8314,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6704,6 +8323,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6712,6 +8332,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6720,6 +8341,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6728,6 +8350,7 @@
     "description": "doubled container(or-added-glyphs)many spellings",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6736,6 +8359,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6744,6 +8368,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6752,6 +8377,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6760,6 +8386,7 @@
     "description": "?stylized ankh(for Isis)(?)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6768,6 +8395,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6776,6 +8404,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "V"
   },
   {
@@ -6784,6 +8413,7 @@
     "description": "Oil jar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6792,6 +8422,7 @@
     "description": "Oil-jar without ties",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6800,6 +8431,7 @@
     "description": "alabasterbasin",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6808,6 +8440,7 @@
     "description": "alabasterbasin",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6816,6 +8449,7 @@
     "description": "festival chamber, (the tail is also vertical 'Great':  'ꜣ)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6824,6 +8458,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6832,6 +8467,7 @@
     "description": "Metal vessel",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6840,6 +8476,7 @@
     "description": "Granite Bowl",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6848,6 +8485,7 @@
     "description": "Granite Bowl",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6856,6 +8494,7 @@
     "description": "Stone jug",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6864,6 +8503,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6872,6 +8512,7 @@
     "description": "cup",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6880,6 +8521,7 @@
     "description": "Pot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6888,6 +8530,7 @@
     "description": "Jar stand",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6896,6 +8539,7 @@
     "description": "Jar stand",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6904,6 +8548,7 @@
     "description": "pot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6912,6 +8557,7 @@
     "description": "water jar",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6920,6 +8566,7 @@
     "description": "Water jar with water",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6928,6 +8575,7 @@
     "description": "Water jar with rack",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6936,6 +8584,7 @@
     "description": "Water jar with rack",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6944,6 +8593,7 @@
     "description": "Water jar with rack",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6952,6 +8602,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6960,6 +8611,7 @@
     "description": "Water jar with rack",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6968,6 +8620,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6976,6 +8629,7 @@
     "description": "Milk jug with handle",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6984,6 +8638,7 @@
     "description": "Milk jug with cover",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -6992,6 +8647,7 @@
     "description": "Wine jars",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -7000,6 +8656,7 @@
     "description": "Beer jug",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -7008,6 +8665,7 @@
     "description": "Beer jug",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -7016,6 +8674,7 @@
     "description": "Pot",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -7024,6 +8683,7 @@
     "description": "Three pots",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -7032,6 +8692,7 @@
     "description": "Pot with legs",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "W"
   },
   {
@@ -7040,6 +8701,7 @@
     "description": "loaf of bread",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7048,6 +8710,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7056,6 +8719,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7064,6 +8728,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7072,6 +8737,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7080,6 +8746,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7088,6 +8755,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7096,6 +8764,7 @@
     "description": "loaf-with-decoration",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7104,6 +8773,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7112,6 +8782,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7120,6 +8791,7 @@
     "description": "cone-shapedbread",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7128,6 +8800,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "X"
   },
   {
@@ -7136,6 +8809,7 @@
     "description": "papyrusroll",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7144,6 +8818,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7152,6 +8827,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7160,6 +8836,7 @@
     "description": "Scribe's outfit",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7168,6 +8845,7 @@
     "description": "Scribe's outfit",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7176,6 +8854,7 @@
     "description": "Senet board",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7184,6 +8863,7 @@
     "description": "game piece",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7192,6 +8872,7 @@
     "description": "harp",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7200,6 +8881,7 @@
     "description": "Sistrum",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Y"
   },
   {
@@ -7208,6 +8890,7 @@
     "description": "Single stroke",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7216,6 +8899,7 @@
     "description": "Plural stroke (horizontal)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7224,6 +8908,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7232,6 +8917,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7240,6 +8926,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7248,6 +8935,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7256,6 +8944,7 @@
     "description": "plural strokes (vertical)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7264,6 +8953,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7272,6 +8962,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7280,6 +8971,7 @@
     "description": "Dual stroke",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7288,6 +8980,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7296,6 +8989,7 @@
     "description": "Diagonal stroke (from hieratic)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7304,6 +8998,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7312,6 +9007,7 @@
     "description": "Substitute for various human figures",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7320,6 +9016,7 @@
     "description": "coil(hieratic equivalent)",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7328,6 +9025,7 @@
     "description": "Oval",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7336,6 +9034,7 @@
     "description": "Crossed diagonal sticks",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7344,6 +9043,7 @@
     "description": "Crossed diagonal sticks",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7352,6 +9052,7 @@
     "description": "Two planks crossed and joined",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7360,6 +9061,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7368,6 +9070,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7376,6 +9079,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7384,6 +9088,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7392,6 +9097,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7400,6 +9106,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7408,6 +9115,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7416,6 +9124,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7424,6 +9133,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7432,6 +9142,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7440,6 +9151,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7448,6 +9160,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7456,6 +9169,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7464,6 +9178,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7472,6 +9187,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7480,6 +9196,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7488,6 +9205,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7496,6 +9214,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7504,6 +9223,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7512,6 +9232,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7520,6 +9241,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7528,6 +9250,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Z"
   },
   {
@@ -7536,6 +9259,7 @@
     "description": "Placenta or sieve",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7544,6 +9268,7 @@
     "description": "Pustule",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7552,6 +9277,7 @@
     "description": "Pustule with liquid issuing from it",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7560,6 +9286,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7568,6 +9295,7 @@
     "description": "Part of steering gear of a ship",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7576,6 +9304,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7584,6 +9313,7 @@
     "description": "A Smiting-Blade",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7592,6 +9322,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7600,6 +9331,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7608,6 +9340,7 @@
     "description": "Irrigation tunnels",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7616,6 +9349,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7624,6 +9358,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7632,6 +9367,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7640,6 +9376,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7648,6 +9385,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7656,6 +9394,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7664,6 +9403,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7672,6 +9412,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7680,6 +9421,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7688,6 +9430,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7696,6 +9439,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7704,6 +9448,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7712,6 +9457,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7720,6 +9466,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7728,6 +9475,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7736,6 +9484,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7744,6 +9493,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7752,6 +9502,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7760,6 +9511,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7768,6 +9520,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7776,6 +9529,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7784,6 +9538,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7792,6 +9547,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
   },
   {
@@ -7800,6 +9556,439 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
+    "shape": [],
     "category": "Aa"
+  },
+  {
+    "id": "NL1",
+    "hieroglyph": "𓈠",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL2",
+    "hieroglyph": "𓈡",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL3",
+    "hieroglyph": "𓈢",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL4",
+    "hieroglyph": "𓈣",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL5",
+    "hieroglyph": "𓈤",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL5a",
+    "hieroglyph": "𓈥",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL6",
+    "hieroglyph": "𓈦",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL7",
+    "hieroglyph": "𓈧",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL8",
+    "hieroglyph": "𓈨",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL9",
+    "hieroglyph": "𓈩",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL10",
+    "hieroglyph": "𓈪",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL11",
+    "hieroglyph": "𓈫",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL12",
+    "hieroglyph": "𓈬",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL13",
+    "hieroglyph": "𓈭",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL14",
+    "hieroglyph": "𓈮",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL15",
+    "hieroglyph": "𓈯",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL16",
+    "hieroglyph": "𓈰",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL17",
+    "hieroglyph": "𓈱",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL17a",
+    "hieroglyph": "𓈲",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL18",
+    "hieroglyph": "𓈳",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL19",
+    "hieroglyph": "𓈴",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NL20",
+    "hieroglyph": "𓈵",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NL"
+  },
+  {
+    "id": "NU1",
+    "hieroglyph": "𓈶",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU2",
+    "hieroglyph": "𓈷",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU3",
+    "hieroglyph": "𓈸",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU4",
+    "hieroglyph": "𓈹",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU5",
+    "hieroglyph": "𓈺",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU6",
+    "hieroglyph": "𓈻",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU7",
+    "hieroglyph": "𓈼",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU8",
+    "hieroglyph": "𓈽",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU9",
+    "hieroglyph": "𓈾",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU10",
+    "hieroglyph": "𓈿",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU10a",
+    "hieroglyph": "𓉀",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU11",
+    "hieroglyph": "𓉁",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU11a",
+    "hieroglyph": "𓉂",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU12",
+    "hieroglyph": "𓉃",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU13",
+    "hieroglyph": "𓉄",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU14",
+    "hieroglyph": "𓉅",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU15",
+    "hieroglyph": "𓉆",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU16",
+    "hieroglyph": "𓉇",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU17",
+    "hieroglyph": "𓉈",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU18",
+    "hieroglyph": "𓉉",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU18a",
+    "hieroglyph": "𓉊",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU19",
+    "hieroglyph": "𓉋",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU20",
+    "hieroglyph": "𓉌",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU21",
+    "hieroglyph": "𓉍",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU22",
+    "hieroglyph": "𓉎",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
+  },
+  {
+    "id": "NU22a",
+    "hieroglyph": "𓉏",
+    "description": "",
+    "pronunciations": [],
+    "keywords": [],
+    "shape": [],
+    "category": "NU"
   }
 ]
