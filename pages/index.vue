@@ -2,9 +2,9 @@
   <div class="container">
     <h1>Egyptian Hieroglyph Finder</h1>
     <div>
-      <div>
-        <span class="find">Find:</span>
-        <input class="search" v-model="searchString" />
+      <div class="find">
+        <span>Find:</span>
+        <input v-model="searchString" />
       </div>
       <InfoBox title="Help">
         <p>
@@ -27,7 +27,7 @@
             class="egyptian"
           >𓅐</span>.
         </p>
-        <p>To make a suggestion, open an issue at TODO.</p>
+        <p>To make a suggestion or correction, please <a href="https://github.com/michelleful/GlyphFinder/issues">open an issue on Github</a>.</p>
       </InfoBox>
       <GardinerCategory
         v-for="(hieroglyphs, category) in matched"
@@ -85,13 +85,12 @@ export default {
   font-family: "Noto Sans", "Ubuntu", "sans-serif";
 }
 
-.egyptian {
-  font-size: 200%;
-  font-family: "Aegyptus", "Segoe UI Historic", "Noto Sans Egyptian Hieroglyphs",
-    "sans-serif";
+.find {
+  font-size: 120%;
 }
 
 .no-results {
+  font-size: 120%;
   margin-top: 1em;
 }
 </style>

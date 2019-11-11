@@ -1,15 +1,19 @@
 @font-face {
-  font-family: "Noto Sans Egyptian Hieroglyphs";
-  src: local("Noto Sans EgyptHiero"), local("Noto Sans Egyptian Hieroglyphs"),
-    local("NotoSansEgyptianHieroglyphs-Regular");
-  src: url("../fonts/NotoSansEgyptianHieroglyphs-Regular.eot"); /* IE9 Compat Modes */
-  src: url("../fonts/NotoSansEgyptianHieroglyphs-Regular.eot?#iefix")
+  font-family: "Aegyptus";
+  src: local("Aegyptus");
+  src: url("../fonts/AegyptusGardiner.eot");
+  src: url("../fonts/AegyptusGardiner.eot?#iefix")
       format("embedded-opentype"),
-    url("../fonts/NotoSansEgyptianHieroglyphs-Regular.otf") format("opentype"),
-    url("../fonts/NotoSansEgyptianHieroglyphs-Regular.woff") format("woff"),
-    url("../fonts/NotoSansEgyptianHieroglyphs-Regular.woff2") format("woff2");
-  src: url("../fonts/NotoSansEgyptianHieroglyphs-Regular.ttf")
+    url("../fonts/AegyptusGardiner.woff") format("woff"),
+    url("../fonts/AegyptusGardiner.woff2") format("woff2");
+  src: url("../fonts/AegyptusGardiner.ttf")
     format("truetype");
   font-weight: normal;
   font-style: normal;
+}
+
+.egyptian {
+  font-size: 200%;
+  font-family: "Aegyptus", "Segoe UI Historic", "Noto Sans Egyptian Hieroglyphs",
+    "sans-serif";
 }

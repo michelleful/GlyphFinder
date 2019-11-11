@@ -3,8 +3,8 @@
     <div class="title" @click="isOpen = !isOpen">
       <h3>
         {{ title }}
-        <span v-if="isOpen">▲</span>
-        <span v-if="!isOpen">▼</span>
+        <span v-if="isOpen">▴</span>
+        <span v-if="!isOpen">▾</span>
       </h3>
     </div>
     <div class="info" v-if="isOpen">
