@@ -15,6 +15,7 @@ export default {
 
 <style scoped>
 .gardiner-number {
+  font-size: 100%;
   width: 30%;
   float: left;
 }

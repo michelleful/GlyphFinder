@@ -10,26 +10,29 @@
         <p>
           Quickly locate
           the Gardiner number or Unicode representation of an Egyptian hieroglyph,
-          by searching for either:
+          by searching for:
         </p>
         <ul>
           <li>&nbsp;a pictorial element in the hieroglyph (e.g. "vulture")</li>
-          <li>&nbsp;the pronunciation of the hieroglyph itself ("nrt")</li>
+          <li>&nbsp;the pronunciation of the hieroglyph itself ("~nrt")</li>
           <li>
             the meaning or pronunciation of a prominent word that
-            contains the hieroglyph ("mother" or "mwt").
+            contains the hieroglyph ("mother" or "~mwt").
           </li>
-          <li>&nbsp;by shape (one of ":tall", ":low", ":narrow", ":broad"), as classified in the original Gardiner sign list.
-            Remember to include the colon!</li>
+          <li>&nbsp;by shape (one of ":tall", ":low", ":narrow", ":broad, ":round").</li>
+          <li>&nbsp;uniliterals, biliterals, triliterals, or numerals (":uni", ":bi", ":tri", ":num"</li>
         </ul>
         <p>
-          For example, the suggested searches apart from shape above all retrieve
+          For example, the suggested searches above, apart from metadata searches, all retrieve
           G14
           <span
             class="egyptian"
           >𓅐</span>.
         </p>
-        <p>To make a suggestion or correction, please <a href="https://github.com/michelleful/GlyphFinder/issues">open an issue on Github</a>.</p>
+        <p>
+          To make a suggestion or correction, please
+          <a href="https://github.com/michelleful/GlyphFinder/issues">open an issue on Github</a>.
+        </p>
       </InfoBox>
       <GardinerCategory
         v-for="(hieroglyphs, category) in matched"
@@ -84,15 +87,11 @@ export default {
 .container {
   margin: 0 auto;
   width: 80%;
+  font-size: 120%;
   font-family: "Noto Sans", "Ubuntu", "sans-serif";
 }
 
-.find {
-  font-size: 120%;
-}
-
 .no-results {
-  font-size: 120%;
   margin-top: 1em;
 }
 </style>
