@@ -16,15 +16,7 @@
       "~z",
       "~sA"
     ],
-    "keywords": [
-      "men",
-      "male person",
-      "masculine",
-      "I",
-      "me",
-      "my",
-      "name"
-    ],
+    "keywords": ["men", "male person", "masculine", "I", "me", "my", "name"],
     "meta": [],
     "category": "A"
   },
@@ -32,9 +24,7 @@
     "id": "A2",
     "hieroglyph": "𓀁",
     "description": "man with hand to mouth",
-    "pronunciations": [
-      "~i"
-    ],
+    "pronunciations": ["~i"],
     "keywords": [
       "eating",
       "drinking",
@@ -57,14 +47,8 @@
     "id": "A3",
     "hieroglyph": "𓀂",
     "description": "man sitting on heel",
-    "pronunciations": [
-      "~Hmsi"
-    ],
-    "keywords": [
-      "dwelling",
-      "seated man",
-      "council"
-    ],
+    "pronunciations": ["~Hmsi"],
+    "keywords": ["dwelling", "seated man", "council"],
     "meta": [],
     "category": "A"
   },
@@ -91,10 +75,7 @@
     "id": "A5",
     "hieroglyph": "𓀄",
     "description": "crouching man hiding behind wall",
-    "pronunciations": [
-      "~imn",
-      "~kAp"
-    ],
+    "pronunciations": ["~imn", "~kAp"],
     "keywords": [
       "secretive",
       "hide",
@@ -175,15 +156,8 @@
     "id": "A8",
     "hieroglyph": "𓀊",
     "description": "man performing hnw-rite",
-    "pronunciations": [
-      "~hnw"
-    ],
-    "keywords": [
-      "jubilation",
-      "jubilant",
-      "praise",
-      "praising"
-    ],
+    "pronunciations": ["~hnw"],
+    "keywords": ["jubilation", "jubilant", "praise", "praising"],
     "meta": [],
     "category": "A"
   },
@@ -191,12 +165,7 @@
     "id": "A9",
     "hieroglyph": "𓀋",
     "description": "man steadying basket on head",
-    "pronunciations": [
-      "~kAt",
-      "~ATp",
-      "~Atp",
-      "~fAi"
-    ],
+    "pronunciations": ["~kAt", "~ATp", "~Atp", "~fAi"],
     "keywords": [
       "working",
       "loading",
@@ -211,15 +180,8 @@
     "id": "A10",
     "hieroglyph": "𓀌",
     "description": "seated man holding oar",
-    "pronunciations": [
-      "~sqdw"
-    ],
-    "keywords": [
-      "sailor",
-      "traveler",
-      "traveller",
-      "sailing"
-    ],
+    "pronunciations": ["~sqdw"],
+    "keywords": ["sailor", "traveler", "traveller", "sailing"],
     "meta": [],
     "category": "A"
   },
@@ -227,12 +189,8 @@
     "id": "A11",
     "hieroglyph": "𓀍",
     "description": "seated man holding scepter of authority and shepherd's crook",
-    "pronunciations": [
-      "~xnms"
-    ],
-    "keywords": [
-      "friend"
-    ],
+    "pronunciations": ["~xnms"],
+    "keywords": ["friend"],
     "meta": [],
     "category": "A"
   },
@@ -240,12 +198,8 @@
     "id": "A12",
     "hieroglyph": "𓀎",
     "description": "soldier with bow and quiver",
-    "pronunciations": [
-      "~mSa"
-    ],
-    "keywords": [
-      "army"
-    ],
+    "pronunciations": ["~mSa"],
+    "keywords": ["army"],
     "meta": [],
     "category": "A"
   },
@@ -253,14 +207,8 @@
     "id": "A13",
     "hieroglyph": "𓀏",
     "description": "man with arms tied behind his back",
-    "pronunciations": [
-      "~xfty"
-    ],
-    "keywords": [
-      "enemy",
-      "enemies",
-      "foes"
-    ],
+    "pronunciations": ["~xfty"],
+    "keywords": ["enemy", "enemies", "foes"],
     "meta": [],
     "category": "A"
   },
@@ -268,16 +216,8 @@
     "id": "A14",
     "hieroglyph": "𓀐",
     "description": "falling man with blood streaming from his head",
-    "pronunciations": [
-      "~mwt"
-    ],
-    "keywords": [
-      "die",
-      "dying",
-      "enemy",
-      "enemies",
-      "foes"
-    ],
+    "pronunciations": ["~mwt"],
+    "keywords": ["die", "dying", "enemy", "enemies", "foes"],
     "meta": [],
     "category": "A"
   },
@@ -294,13 +234,8 @@
     "id": "A15",
     "hieroglyph": "𓀒",
     "description": "man falling",
-    "pronunciations": [
-      "~xr",
-      "~sxrt"
-    ],
-    "keywords": [
-      "overthrowing"
-    ],
+    "pronunciations": ["~xr", "~sxrt"],
+    "keywords": ["overthrowing"],
     "meta": [],
     "category": "A"
   },
@@ -308,9 +243,7 @@
     "id": "A16",
     "hieroglyph": "𓀓",
     "description": "man bowing down",
-    "pronunciations": [
-      "~ksi"
-    ],
+    "pronunciations": ["~ksi"],
     "keywords": [],
     "meta": [],
     "category": "A"
@@ -319,15 +252,8 @@
     "id": "A17",
     "hieroglyph": "𓀔",
     "description": "child sitting with hand to mouth",
-    "pronunciations": [
-      "~Sri",
-      "~Xrd"
-    ],
-    "keywords": [
-      "young",
-      "youth",
-      "children"
-    ],
+    "pronunciations": ["~Sri", "~Xrd"],
+    "keywords": ["young", "youth", "children"],
     "meta": [],
     "category": "A"
   },
@@ -345,9 +271,7 @@
     "hieroglyph": "𓀖",
     "description": "child wearing red crown",
     "pronunciations": [],
-    "keywords": [
-      "child king"
-    ],
+    "keywords": ["child king"],
     "meta": [],
     "category": "A"
   },
@@ -355,17 +279,8 @@
     "id": "A19",
     "hieroglyph": "𓀗",
     "description": "bent man leaning on staff",
-    "pronunciations": [
-      "~iAw",
-      "~smsw",
-      "~wr"
-    ],
-    "keywords": [
-      "old age",
-      "great one",
-      "eldest",
-      "stick"
-    ],
+    "pronunciations": ["~iAw", "~smsw", "~wr"],
+    "keywords": ["old age", "great one", "eldest", "stick"],
     "meta": [],
     "category": "A"
   },
@@ -374,12 +289,7 @@
     "hieroglyph": "𓀘",
     "description": "man leaning on forked staff",
     "pronunciations": [],
-    "keywords": [
-      "old age",
-      "great one",
-      "eldest",
-      "stick"
-    ],
+    "keywords": ["old age", "great one", "eldest", "stick"],
     "meta": [],
     "category": "A"
   },
@@ -387,14 +297,8 @@
     "id": "A21",
     "hieroglyph": "𓀙",
     "description": "man holding staff with handkerchief",
-    "pronunciations": [
-      "~sr"
-    ],
-    "keywords": [
-      "officials",
-      "nobles",
-      "stick"
-    ],
+    "pronunciations": ["~sr"],
+    "keywords": ["officials", "nobles", "stick"],
     "meta": [],
     "category": "A"
   },
@@ -403,9 +307,7 @@
     "hieroglyph": "𓀚",
     "description": "statue of man with staff and scepter of authority",
     "pronunciations": [],
-    "keywords": [
-      "stick"
-    ],
+    "keywords": ["stick"],
     "meta": [],
     "category": "A"
   },
@@ -413,12 +315,8 @@
     "id": "A23",
     "hieroglyph": "𓀛",
     "description": "king with staff and mace with round head",
-    "pronunciations": [
-      "~ity"
-    ],
-    "keywords": [
-      "sovereign"
-    ],
+    "pronunciations": ["~ity"],
+    "keywords": ["sovereign"],
     "meta": [],
     "category": "A"
   },
@@ -426,18 +324,8 @@
     "id": "A24",
     "hieroglyph": "𓀜",
     "description": "man striking with both hands",
-    "pronunciations": [
-      "~Hwi",
-      "~nHm",
-      "~nxt"
-    ],
-    "keywords": [
-      "strike",
-      "take away",
-      "taking away",
-      "strong",
-      "strength"
-    ],
+    "pronunciations": ["~Hwi", "~nHm", "~nxt"],
+    "keywords": ["strike", "take away", "taking away", "strong", "strength"],
     "meta": [],
     "category": "A"
   },
@@ -445,12 +333,8 @@
     "id": "A25",
     "hieroglyph": "𓀝",
     "description": "man striking, with left arm hanging behind back",
-    "pronunciations": [
-      "~hwi"
-    ],
-    "keywords": [
-      "strike"
-    ],
+    "pronunciations": ["~hwi"],
+    "keywords": ["strike"],
     "meta": [],
     "category": "A"
   },
@@ -458,15 +342,8 @@
     "id": "A26",
     "hieroglyph": "𓀞",
     "description": "man with one arm pointing forward",
-    "pronunciations": [
-      "~nis",
-      "~i"
-    ],
-    "keywords": [
-      "calling",
-      "vocative",
-      "oh"
-    ],
+    "pronunciations": ["~nis", "~i"],
+    "keywords": ["calling", "vocative", "oh"],
     "meta": [],
     "category": "A"
   },
@@ -474,13 +351,8 @@
     "id": "A27",
     "hieroglyph": "𓀟",
     "description": "hastening man",
-    "pronunciations": [
-      "~in"
-    ],
-    "keywords": [
-      "agent particle",
-      "by"
-    ],
+    "pronunciations": ["~in"],
+    "keywords": ["agent particle", "by"],
     "meta": [],
     "category": "A"
   },
@@ -488,15 +360,8 @@
     "id": "A28",
     "hieroglyph": "𓀠",
     "description": "man with hands raised on either side",
-    "pronunciations": [
-      "~qA",
-      "~HAi"
-    ],
-    "keywords": [
-      "high",
-      "rejoice",
-      "rejoicing"
-    ],
+    "pronunciations": ["~qA", "~HAi"],
+    "keywords": ["high", "rejoice", "rejoicing"],
     "meta": [],
     "category": "A"
   },
@@ -513,17 +378,8 @@
     "id": "A30",
     "hieroglyph": "𓀢",
     "description": "man with hands raised in front",
-    "pronunciations": [
-      "~iAw",
-      "~dwA"
-    ],
-    "keywords": [
-      "giving praise",
-      "praising",
-      "adoring",
-      "adore",
-      "adoration"
-    ],
+    "pronunciations": ["~iAw", "~dwA"],
+    "keywords": ["giving praise", "praising", "adoring", "adore", "adoration"],
     "meta": [],
     "category": "A"
   },
@@ -532,10 +388,7 @@
     "hieroglyph": "𓀣",
     "description": "man with hands raised behind him",
     "pronunciations": [],
-    "keywords": [
-      "turning away",
-      "turn away"
-    ],
+    "keywords": ["turning away", "turn away"],
     "meta": [],
     "category": "A"
   },
@@ -544,9 +397,7 @@
     "hieroglyph": "𓀤",
     "description": "man dancing with arms to the back",
     "pronunciations": [],
-    "keywords": [
-      "dance"
-    ],
+    "keywords": ["dance"],
     "meta": [],
     "category": "A"
   },
@@ -564,11 +415,7 @@
     "hieroglyph": "𓀦",
     "description": "man with stick and bundle on shoulder",
     "pronunciations": [],
-    "keywords": [
-      "wanderer",
-      "herdsman",
-      "herdsmen"
-    ],
+    "keywords": ["wanderer", "herdsman", "herdsmen"],
     "meta": [],
     "category": "A"
   },
@@ -576,12 +423,8 @@
     "id": "A34",
     "hieroglyph": "𓀧",
     "description": "man pounding in a mortar",
-    "pronunciations": [
-      "~xwsi"
-    ],
-    "keywords": [
-      "building"
-    ],
+    "pronunciations": ["~xwsi"],
+    "keywords": ["building"],
     "meta": [],
     "category": "A"
   },
@@ -589,9 +432,7 @@
     "id": "A35",
     "hieroglyph": "𓀨",
     "description": "man building wall",
-    "pronunciations": [
-      "~qd"
-    ],
+    "pronunciations": ["~qd"],
     "keywords": [],
     "meta": [],
     "category": "A"
@@ -600,12 +441,8 @@
     "id": "A36",
     "hieroglyph": "𓀩",
     "description": "man kneading into vessel",
-    "pronunciations": [
-      "~afty"
-    ],
-    "keywords": [
-      "brewers"
-    ],
+    "pronunciations": ["~afty"],
+    "keywords": ["brewers"],
     "meta": [],
     "category": "A"
   },
@@ -614,9 +451,7 @@
     "hieroglyph": "𓀪",
     "description": "man in vessel",
     "pronunciations": [],
-    "keywords": [
-      "brewers"
-    ],
+    "keywords": ["brewers"],
     "meta": [],
     "category": "A"
   },
@@ -624,13 +459,8 @@
     "id": "A38",
     "hieroglyph": "𓀫",
     "description": "man holding necks of two emblematic animals with panther heads",
-    "pronunciations": [
-      "~qis",
-      "~qsi"
-    ],
-    "keywords": [
-      "cusae (town)"
-    ],
+    "pronunciations": ["~qis", "~qsi"],
+    "keywords": ["cusae (town)"],
     "meta": [],
     "category": "A"
   },
@@ -647,15 +477,7 @@
     "id": "A40",
     "hieroglyph": "𓀭",
     "description": "seated god",
-    "pronunciations": [
-      "~i",
-      "~j",
-      "~wi",
-      "~wj",
-      "~ink",
-      "~jnk",
-      "~kwi"
-    ],
+    "pronunciations": ["~i", "~j", "~wi", "~wj", "~ink", "~jnk", "~kwi"],
     "keywords": [],
     "meta": [],
     "category": "A"
@@ -673,16 +495,8 @@
     "id": "A41",
     "hieroglyph": "𓀯",
     "description": "king with uraeus",
-    "pronunciations": [
-      "~nsw",
-      "~Hm",
-      "~nb"
-    ],
-    "keywords": [
-      "seated king",
-      "majesty",
-      "lord"
-    ],
+    "pronunciations": ["~nsw", "~Hm", "~nb"],
+    "keywords": ["seated king", "majesty", "lord"],
     "meta": [],
     "category": "A"
   },
@@ -709,9 +523,7 @@
     "hieroglyph": "𓀲",
     "description": "king wearing white crown",
     "pronunciations": [],
-    "keywords": [
-      "Upper Egypt"
-    ],
+    "keywords": ["Upper Egypt"],
     "meta": [],
     "category": "A"
   },
@@ -728,13 +540,8 @@
     "id": "A44",
     "hieroglyph": "𓀴",
     "description": "king wearing red crown with flagellum",
-    "pronunciations": [
-      "~bity",
-      "~bjtj"
-    ],
-    "keywords": [
-      "Lower Egypt"
-    ],
+    "pronunciations": ["~bity", "~bjtj"],
+    "keywords": ["Lower Egypt"],
     "meta": [],
     "category": "A"
   },
@@ -769,16 +576,8 @@
     "id": "A47",
     "hieroglyph": "𓀸",
     "description": "shepherd seated and wrapped in mantle, holding stick",
-    "pronunciations": [
-      "~sAw",
-      "~mniw",
-      "~mnjw"
-    ],
-    "keywords": [
-      "guard",
-      "herdsman",
-      "herdsmen"
-    ],
+    "pronunciations": ["~sAw", "~mniw", "~mnjw"],
+    "keywords": ["guard", "herdsman", "herdsmen"],
     "meta": [],
     "category": "A"
   },
@@ -786,12 +585,8 @@
     "id": "A48",
     "hieroglyph": "𓀹",
     "description": "beardless man seated and holding knife",
-    "pronunciations": [
-      "~iry"
-    ],
-    "keywords": [
-      "relating to"
-    ],
+    "pronunciations": ["~iry"],
+    "keywords": ["relating to"],
     "meta": [],
     "category": "A"
   },
@@ -799,13 +594,8 @@
     "id": "A49",
     "hieroglyph": "𓀺",
     "description": "seated Syrian holding stick",
-    "pronunciations": [
-      "~aAmw"
-    ],
-    "keywords": [
-      "foreigners",
-      "Asiatics"
-    ],
+    "pronunciations": ["~aAmw"],
+    "keywords": ["foreigners", "Asiatics"],
     "meta": [],
     "category": "A"
   },
@@ -814,11 +604,7 @@
     "hieroglyph": "𓀻",
     "description": "noble on chair",
     "pronunciations": [],
-    "keywords": [
-      "revered person",
-      "deceased",
-      "dead person"
-    ],
+    "keywords": ["revered person", "deceased", "dead person"],
     "meta": [],
     "category": "A"
   },
@@ -826,12 +612,8 @@
     "id": "A51",
     "hieroglyph": "𓀼",
     "description": "noble on chair with flagellum",
-    "pronunciations": [
-      "~Spsi"
-    ],
-    "keywords": [
-      "flail"
-    ],
+    "pronunciations": ["~Spsi"],
+    "keywords": ["flail"],
     "meta": [],
     "category": "A"
   },
@@ -855,12 +637,7 @@
     "hieroglyph": "𓀾",
     "description": "standing mummy",
     "pronunciations": [],
-    "keywords": [
-      "upright",
-      "statue",
-      "likeness",
-      "form"
-    ],
+    "keywords": ["upright", "statue", "likeness", "form"],
     "meta": [],
     "category": "A"
   },
@@ -869,10 +646,7 @@
     "hieroglyph": "𓀿",
     "description": "lying mummy",
     "pronunciations": [],
-    "keywords": [
-      "recumbent",
-      "dead"
-    ],
+    "keywords": ["recumbent", "dead"],
     "meta": [],
     "category": "A"
   },
@@ -880,14 +654,8 @@
     "id": "A55",
     "hieroglyph": "𓁀",
     "description": "mummy on bed",
-    "pronunciations": [
-      "~sDr"
-    ],
-    "keywords": [
-      "lie down",
-      "lying down",
-      "dead"
-    ],
+    "pronunciations": ["~sDr"],
+    "keywords": ["lie down", "lying down", "dead"],
     "meta": [],
     "category": "A"
   },
@@ -923,10 +691,7 @@
     "hieroglyph": "𓁄",
     "description": "man threatening with stick",
     "pronunciations": [],
-    "keywords": [
-      "drive off",
-      "driving off"
-    ],
+    "keywords": ["drive off", "driving off"],
     "meta": [],
     "category": "A"
   },
@@ -1033,16 +798,8 @@
     "id": "B1",
     "hieroglyph": "𓁐",
     "description": "seated woman",
-    "pronunciations": [
-      "~i",
-      "~j"
-    ],
-    "keywords": [
-      "women",
-      "I",
-      "me",
-      "my"
-    ],
+    "pronunciations": ["~i", "~j"],
+    "keywords": ["women", "I", "me", "my"],
     "meta": [],
     "category": "B"
   },
@@ -1051,10 +808,7 @@
     "hieroglyph": "𓁑",
     "description": "pregnant woman",
     "pronunciations": [],
-    "keywords": [
-      "expecting",
-      "with child"
-    ],
+    "keywords": ["expecting", "with child"],
     "meta": [],
     "category": "B"
   },
@@ -1062,12 +816,8 @@
     "id": "B3",
     "hieroglyph": "𓁒",
     "description": "woman giving birth",
-    "pronunciations": [
-      "~msi"
-    ],
-    "keywords": [
-      "bearing child"
-    ],
+    "pronunciations": ["~msi"],
+    "keywords": ["bearing child"],
     "meta": [],
     "category": "B"
   },
@@ -1084,13 +834,8 @@
     "id": "B5",
     "hieroglyph": "𓁔",
     "description": "woman suckling child",
-    "pronunciations": [
-      "~mnat"
-    ],
-    "keywords": [
-      "nursing child",
-      "wet nurse"
-    ],
+    "pronunciations": ["~mnat"],
+    "keywords": ["nursing child", "wet nurse"],
     "meta": [],
     "category": "B"
   },
@@ -1107,13 +852,8 @@
     "id": "B6",
     "hieroglyph": "𓁖",
     "description": "woman on chair with child on lap",
-    "pronunciations": [
-      "~rnn"
-    ],
-    "keywords": [
-      "nurse",
-      "nursing"
-    ],
+    "pronunciations": ["~rnn"],
+    "keywords": ["nurse", "nursing"],
     "meta": [],
     "category": "B"
   },
@@ -1122,9 +862,7 @@
     "hieroglyph": "𓁗",
     "description": "queen wearing diadem and holding flower",
     "pronunciations": [],
-    "keywords": [
-      "queen's name"
-    ],
+    "keywords": ["queen's name"],
     "meta": [],
     "category": "B"
   },
@@ -1150,15 +888,8 @@
     "id": "C1",
     "hieroglyph": "𓁚",
     "description": "god with sun-disk and uraeus",
-    "pronunciations": [
-      "~ra"
-    ],
-    "keywords": [
-      "Ra",
-      "Re",
-      "sun god",
-      "sun-god"
-    ],
+    "pronunciations": ["~ra"],
+    "keywords": ["Ra", "Re", "sun god", "sun-god"],
     "meta": [],
     "category": "C"
   },
@@ -1166,15 +897,8 @@
     "id": "C2",
     "hieroglyph": "𓁛",
     "description": "god with falcon head and sun-disk holding ankh",
-    "pronunciations": [
-      "~ra"
-    ],
-    "keywords": [
-      "Ra",
-      "Re",
-      "sun god",
-      "sun-god"
-    ],
+    "pronunciations": ["~ra"],
+    "keywords": ["Ra", "Re", "sun god", "sun-god"],
     "meta": [],
     "category": "C"
   },
@@ -1526,7 +1250,7 @@
     "description": "pupil",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "D"
   },
   {
@@ -1605,16 +1329,9 @@
     "id": "D21",
     "hieroglyph": "𓂋",
     "description": "mouth",
-    "pronunciations": [
-      "~r",
-      "~rA"
-    ],
-    "keywords": [
-      "to"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~r", "~rA"],
+    "keywords": ["to"],
+    "meta": [":uniliteral"],
     "category": "D"
   },
   {
@@ -1774,13 +1491,9 @@
     "id": "D36",
     "hieroglyph": "𓂝",
     "description": "forearm (palm upwards)",
-    "pronunciations": [
-      "~a"
-    ],
+    "pronunciations": ["~a"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "D"
   },
   {
@@ -1868,13 +1581,9 @@
     "id": "D46",
     "hieroglyph": "𓂧",
     "description": "hand",
-    "pronunciations": [
-      "~d"
-    ],
+    "pronunciations": ["~d"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "D"
   },
   {
@@ -2026,9 +1735,7 @@
     "hieroglyph": "𓂸",
     "description": "phallus",
     "pronunciations": [],
-    "keywords": [
-      "penis"
-    ],
+    "keywords": ["penis"],
     "meta": [],
     "category": "D"
   },
@@ -2037,9 +1744,7 @@
     "hieroglyph": "𓂹",
     "description": "phallus with folded cloth",
     "pronunciations": [],
-    "keywords": [
-      "penis"
-    ],
+    "keywords": ["penis"],
     "meta": [],
     "category": "D"
   },
@@ -2048,11 +1753,7 @@
     "hieroglyph": "𓂺",
     "description": "phallus with emission",
     "pronunciations": [],
-    "keywords": [
-      "penis",
-      "ejaculation",
-      "ejaculating"
-    ],
+    "keywords": ["penis", "ejaculation", "ejaculating"],
     "meta": [],
     "category": "D"
   },
@@ -2087,9 +1788,7 @@
     "id": "D56",
     "hieroglyph": "𓂾",
     "description": "leg",
-    "pronunciations": [
-      "~rdwy"
-    ],
+    "pronunciations": ["~rdwy"],
     "keywords": [],
     "meta": [],
     "category": "D"
@@ -2107,13 +1806,9 @@
     "id": "D58",
     "hieroglyph": "𓃀",
     "description": "foot",
-    "pronunciations": [
-      "~b"
-    ],
+    "pronunciations": ["~b"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "D"
   },
   {
@@ -2984,15 +2679,9 @@
     "id": "F32",
     "hieroglyph": "𓄡",
     "description": "animal's belly and tail",
-    "pronunciations": [
-      "~X"
-    ],
-    "keywords": [
-      "children"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~X"],
+    "keywords": ["children"],
+    "meta": [":uniliteral"],
     "category": "F"
   },
   {
@@ -3262,9 +2951,7 @@
     "description": "Egyptian vulture",
     "pronunciations": [],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "G"
   },
   {
@@ -3416,9 +3103,7 @@
     "hieroglyph": "𓅐",
     "description": "vulture",
     "pronunciations": ["~mwt"],
-    "keywords": [
-      "mother"
-    ],
+    "keywords": ["mother"],
     "meta": [],
     "category": "G"
   },
@@ -3444,16 +3129,9 @@
     "id": "G17",
     "hieroglyph": "𓅓",
     "description": "owl",
-    "pronunciations": [
-      "~m"
-    ],
-    "keywords": [
-      "inside",
-      "therein"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~m"],
+    "keywords": ["inside", "therein"],
+    "meta": [":uniliteral"],
     "category": "G"
   },
   {
@@ -3721,13 +3399,9 @@
     "id": "G43",
     "hieroglyph": "𓅱",
     "description": "quail chick",
-    "pronunciations": [
-      "~w"
-    ],
+    "pronunciations": ["~w"],
     "keywords": [],
-    "meta": [
-      "uniliteral"
-    ],
+    "meta": ["uniliteral"],
     "category": "G"
   },
   {
@@ -3852,7 +3526,14 @@
     "hieroglyph": "𓅿",
     "description": "head of pintail duck",
     "pronunciations": ["~Apdw", "~wSn", "~bant"],
-    "keywords": ["ducks", "fowl", "goose", "geese", "wringing the necks of birds", "make an offering"],
+    "keywords": [
+      "ducks",
+      "fowl",
+      "goose",
+      "geese",
+      "wringing the necks of birds",
+      "make an offering"
+    ],
     "meta": [],
     "category": "H"
   },
@@ -3861,7 +3542,16 @@
     "hieroglyph": "𓆀",
     "description": "head of crested bird",
     "pronunciations": ["~wSmw", "~mAa", "~pq"],
-    "keywords": ["temple (top of head)", "real", "ear of corn", "vessel for beer", "fine linen", "accompanying", "escorting", "river bank"],
+    "keywords": [
+      "temple (top of head)",
+      "real",
+      "ear of corn",
+      "vessel for beer",
+      "fine linen",
+      "accompanying",
+      "escorting",
+      "river bank"
+    ],
     "meta": [],
     "category": "H"
   },
@@ -3879,8 +3569,17 @@
     "hieroglyph": "𓆂",
     "description": "head of vulture",
     "pronunciations": ["~nrw", "~snr"],
-    "keywords": ["terror", "terrify", "scare", "frighten", "protect",
-                 "bird", "people", "mankind", "take care of"],
+    "keywords": [
+      "terror",
+      "terrify",
+      "scare",
+      "frighten",
+      "protect",
+      "bird",
+      "people",
+      "mankind",
+      "take care of"
+    ],
     "meta": [],
     "category": "H"
   },
@@ -3898,9 +3597,19 @@
     "hieroglyph": "𓆄",
     "description": "feather",
     "pronunciations": ["~Swt", "~mAat", "~rSwt"],
-    "keywords": ["Shu (air god)", "truth", "order", "Ma'at",
-                 "true", "joy", "be dry", "shadow", "shade",
-                 "neighbors", "neighbours"],
+    "keywords": [
+      "Shu (air god)",
+      "truth",
+      "order",
+      "Ma'at",
+      "true",
+      "joy",
+      "be dry",
+      "shadow",
+      "shade",
+      "neighbors",
+      "neighbours"
+    ],
     "meta": [],
     "category": "H"
   },
@@ -3909,8 +3618,18 @@
     "hieroglyph": "𓆅",
     "description": "hieratic feather",
     "pronunciations": ["~Swt", "~mAat"],
-    "keywords": ["Shu (air god)", "truth", "true", "order", "Ma'at", "be dry",
-                 "shadow", "shade", "neighbours", "neighbors"],
+    "keywords": [
+      "Shu (air god)",
+      "truth",
+      "true",
+      "order",
+      "Ma'at",
+      "be dry",
+      "shadow",
+      "shade",
+      "neighbours",
+      "neighbors"
+    ],
     "meta": [],
     "category": "H"
   },
@@ -3928,7 +3647,16 @@
     "hieroglyph": "𓆇",
     "description": "egg",
     "pronunciations": ["~swHt", "~pat", "~aAt", "~pAwty", "~sa"],
-    "keywords": ["clod of earth", "patricians", "mankind", "female goddess", "stone", "primaeval god", "primeval god", "son"],
+    "keywords": [
+      "clod of earth",
+      "patricians",
+      "mankind",
+      "female goddess",
+      "stone",
+      "primaeval god",
+      "primeval god",
+      "son"
+    ],
     "meta": [":round"],
     "category": "H"
   },
@@ -3936,8 +3664,16 @@
     "id": "I1",
     "hieroglyph": "𓆈",
     "description": "gecko",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~aSAt", "~HntAsw"],
+    "keywords": [
+      "lizard",
+      "many",
+      "abundant",
+      "plentiful",
+      "dove",
+      "multitude",
+      "multiply"
+    ],
     "meta": [],
     "category": "I"
   },
@@ -3945,17 +3681,43 @@
     "id": "I2",
     "hieroglyph": "𓆉",
     "description": "turtle",
-    "pronunciations": [],
-    "keywords": [],
-    "meta": [],
+    "pronunciations": ["~Styw"],
+    "keywords": ["tortoise"],
+    "meta": [":round"],
     "category": "I"
   },
   {
     "id": "I3",
     "hieroglyph": "𓆊",
     "description": "crocodile",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": [
+      "~msH",
+      "~mzH",
+      "~ity",
+      "~Ad",
+      "~ADw",
+      "~aXm",
+      "~Hnt",
+      "~xnty",
+      "~sDd",
+      "~skn"
+    ],
+    "keywords": [
+      "aggression",
+      "aggressive",
+      "aggressor",
+      "angry",
+      "savage",
+      "attack",
+      "anger",
+      "sovereign",
+      "lightning flash",
+      "gleaming",
+      "glittering",
+      "greedy",
+      "voracious spirit",
+      "lusting after"
+    ],
     "meta": [],
     "category": "I"
   },
@@ -3963,8 +3725,8 @@
     "id": "I4",
     "hieroglyph": "𓆋",
     "description": "crocodileon shrine",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~sbk"],
+    "keywords": ["Sobek (god)", "archaic stone image of crocodile"],
     "meta": [],
     "category": "I"
   },
@@ -3972,8 +3734,8 @@
     "id": "I5",
     "hieroglyph": "𓆌",
     "description": "crocodile with curved tail",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~sAq"],
+    "keywords": ["collecting", "gathering together"],
     "meta": [],
     "category": "I"
   },
@@ -3981,8 +3743,8 @@
     "id": "I5A",
     "hieroglyph": "𓆍",
     "description": "image of crocodile",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~sAq", "~sbk"],
+    "keywords": ["Sobek (god)", "collecting", "gathering together"],
     "meta": [],
     "category": "I"
   },
@@ -3990,8 +3752,8 @@
     "id": "I6",
     "hieroglyph": "𓆎",
     "description": "crocodile scales",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~kmt", "~ikm", "~skm", "~kmyt"],
+    "keywords": ["Egypt", "jar", "shield", "grey haired", "herd of cattle"],
     "meta": [],
     "category": "I"
   },
@@ -3999,8 +3761,8 @@
     "id": "I7",
     "hieroglyph": "𓆏",
     "description": "frog",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~Hqt", "~wHm", "~qrr"],
+    "keywords": ["Heket (goddess)", "repeating"],
     "meta": [],
     "category": "I"
   },
@@ -4008,24 +3770,26 @@
     "id": "I8",
     "hieroglyph": "𓆐",
     "description": "tadpole",
-    "pronunciations": [],
-    "keywords": [],
-    "meta": [],
+    "pronunciations": ["~Hfnw", "~Hfnr"],
+    "keywords": ["100000", "one hundred thousand", "tadpole"],
+    "meta": [":numeral"],
     "category": "I"
   },
   {
     "id": "I9",
     "hieroglyph": "𓆑",
     "description": "horned viper",
-    "pronunciations": [
-      "~f"
-    ],
+    "pronunciations": ["~f"],
     "keywords": [
-      "snake"
+      "snake",
+      "serpent",
+      "father",
+      "he",
+      "himself",
+      "his",
+      "itself"
     ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "I"
   },
   {
@@ -4033,7 +3797,7 @@
     "hieroglyph": "𓆒",
     "description": "horned viper crawling out of enclosure",
     "pronunciations": [],
-    "keywords": [],
+    "keywords": ["snake", "serpent"],
     "meta": [],
     "category": "I"
   },
@@ -4041,15 +3805,20 @@
     "id": "I10",
     "hieroglyph": "𓆓",
     "description": "cobra",
-    "pronunciations": [
-      "~D"
-    ],
+    "pronunciations": ["~Dt", "~Dd"],
     "keywords": [
-      "snake"
+      "snake",
+      "serpent",
+      "self",
+      "body",
+      "eternity",
+      "saying",
+      "speaking",
+      "reciting",
+      "thinking",
+      "speech"
     ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "I"
   },
   {
@@ -4057,7 +3826,7 @@
     "hieroglyph": "𓆔",
     "description": "cobra with feather",
     "pronunciations": [],
-    "keywords": [],
+    "keywords": ["snake", "serpent"],
     "meta": [],
     "category": "I"
   },
@@ -4065,17 +3834,17 @@
     "id": "I11",
     "hieroglyph": "𓆕",
     "description": "two cobras",
-    "pronunciations": [],
-    "keywords": [],
-    "meta": [],
+    "pronunciations": ["~DD", "~wDDt"],
+    "keywords": ["commanded", "snakes", "serpents"],
+    "meta": [":repeat"],
     "category": "I"
   },
   {
     "id": "I11A",
     "hieroglyph": "𓆖",
     "description": "combination of cobra, flat loaf and sandy tract",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~Dt"],
+    "keywords": ["forever", "snake", "serpent"],
     "meta": [],
     "category": "I"
   },
@@ -4083,8 +3852,25 @@
     "id": "I12",
     "hieroglyph": "𓆗",
     "description": "erect cobra",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": [
+      "~nTrt",
+      "~Ast",
+      "~ist",
+      "~jst",
+      "~iart",
+      "~wADyt",
+      "~nsrt",
+      "~nzrt"
+    ],
+    "keywords": [
+      "goddess Isis",
+      "uraeus",
+      "royal serpent",
+      "snake",
+      "Wadjet",
+      "Edjo",
+      "Nesret"
+    ],
     "meta": [],
     "category": "I"
   },
@@ -4092,8 +3878,17 @@
     "id": "I13",
     "hieroglyph": "𓆘",
     "description": "erect cobra on basket",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~Axt", "~wADyt", "~watt", "~nsrt", "~nzrt", "~nTrt"],
+    "keywords": [
+      "snake",
+      "serpent",
+      "uraeus",
+      "Wadjet",
+      "Edjo",
+      "royal serpent",
+      "Nesret",
+      "goddess"
+    ],
     "meta": [],
     "category": "I"
   },
@@ -4101,8 +3896,8 @@
     "id": "I14",
     "hieroglyph": "𓆙",
     "description": "snake",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~naw", "~HfAw", "~sbi", "~Dw", "~Ddft", "nik"],
+    "keywords": ["serpent demon", "worm", "evil one"],
     "meta": [],
     "category": "I"
   },
@@ -4110,8 +3905,8 @@
     "id": "I15",
     "hieroglyph": "𓆚",
     "description": "snake",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~naw", "~HfAw", "~sbi", "~Dw", "~Ddft", "nik"],
+    "keywords": ["serpent demon", "worm", "evil one"],
     "meta": [],
     "category": "I"
   },
@@ -4119,17 +3914,17 @@
     "id": "K1",
     "hieroglyph": "𓆛",
     "description": "tilapia",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~int"],
+    "keywords": ["bulti fish", "valley", "wall"],
     "meta": [],
     "category": "K"
   },
   {
     "id": "K2",
     "hieroglyph": "𓆜",
-    "description": "barbel",
-    "pronunciations": [],
-    "keywords": [],
+    "description": "barbel fish",
+    "pronunciations": ["~bwt"],
+    "keywords": ["abomination"],
     "meta": [],
     "category": "K"
   },
@@ -4137,8 +3932,12 @@
     "id": "K3",
     "hieroglyph": "𓆝",
     "description": "mullet",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~adw"],
+    "keywords": [
+      "buri fish",
+      "administrator of province",
+      "excavator of canals"
+    ],
     "meta": [],
     "category": "K"
   },
@@ -4146,17 +3945,23 @@
     "id": "K4",
     "hieroglyph": "𓆞",
     "description": "elephant-snout fish",
-    "pronunciations": [],
-    "keywords": [],
-    "meta": [],
+    "pronunciations": ["~Xat", "~Xart"],
+    "keywords": [
+      "oxyrhynchus fish",
+      "Mormyrus kannume",
+      "corpse",
+      "body",
+      "widow"
+    ],
+    "meta": [":biliteral"],
     "category": "K"
   },
   {
     "id": "K5",
     "hieroglyph": "𓆟",
     "description": "Petrocephalus bane",
-    "pronunciations": [],
-    "keywords": [],
+    "pronunciations": ["~rmw", "~bs", "~bz", "~ibz", "~xnS"],
+    "keywords": ["fish", "fishy smell", "introduce", "enter", "stink"],
     "meta": [],
     "category": "K"
   },
@@ -4164,7 +3969,7 @@
     "id": "K6",
     "hieroglyph": "𓆠",
     "description": "fish scale",
-    "pronunciations": [],
+    "pronunciations": ["~nSmt"],
     "keywords": [],
     "meta": [],
     "category": "K"
@@ -4172,9 +3977,9 @@
   {
     "id": "K7",
     "hieroglyph": "𓆡",
-    "description": "puffer",
-    "pronunciations": [],
-    "keywords": [],
+    "description": "puffer fish",
+    "pronunciations": ["~Spt"],
+    "keywords": ["discontented"],
     "meta": [],
     "category": "K"
   },
@@ -4417,10 +4222,7 @@
     "hieroglyph": "𓆼",
     "description": "one lotus plant",
     "pronunciations": [],
-    "keywords": [
-      "1000",
-      "one thousand"
-    ],
+    "keywords": ["1000", "one thousand"],
     "meta": [],
     "category": "M"
   },
@@ -4556,9 +4358,7 @@
     "description": "reed",
     "pronunciations": [],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "M"
   },
   {
@@ -4567,9 +4367,7 @@
     "description": "two reeds",
     "pronunciations": [],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "M"
   },
   {
@@ -4703,10 +4501,7 @@
     "hieroglyph": "𓇛",
     "description": "seed-pod",
     "pronunciations": [],
-    "keywords": [
-      "chilli pepper",
-      "chili pepper"
-    ],
+    "keywords": ["chilli pepper", "chili pepper"],
     "meta": [],
     "category": "M"
   },
@@ -4887,10 +4682,7 @@
     "description": "sky",
     "pronunciations": [],
     "keywords": [],
-    "meta": [
-      ":low",
-      ":broad"
-    ],
+    "meta": [":low", ":broad"],
     "category": "N"
   },
   {
@@ -4926,7 +4718,7 @@
     "description": "sun",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "N"
   },
   {
@@ -4935,7 +4727,7 @@
     "description": "sun with uraeus",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "N"
   },
   {
@@ -4953,7 +4745,7 @@
     "description": "sunshine",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "N"
   },
   {
@@ -4962,7 +4754,7 @@
     "description": "moon with lower half obscured",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "N"
   },
   {
@@ -4971,7 +4763,7 @@
     "description": "moon with lower section obscured",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "N"
   },
   {
@@ -5016,7 +4808,7 @@
     "description": "star in circle",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "N"
   },
   {
@@ -5167,13 +4959,9 @@
     "id": "N29",
     "hieroglyph": "𓈎",
     "description": "slope of hill",
-    "pronunciations": [
-      "~q"
-    ],
+    "pronunciations": ["~q"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "N"
   },
   {
@@ -5209,7 +4997,7 @@
     "description": "grain",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "N"
   },
   {
@@ -5243,13 +5031,9 @@
     "id": "N35",
     "hieroglyph": "𓈖",
     "description": "ripple of water",
-    "pronunciations": [
-      "~n"
-    ],
+    "pronunciations": ["~n"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "N"
   },
   {
@@ -5274,13 +5058,9 @@
     "id": "N37",
     "hieroglyph": "𓈙",
     "description": "pool",
-    "pronunciations": [
-      "~S"
-    ],
+    "pronunciations": ["~S"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "N"
   },
   {
@@ -5377,13 +5157,9 @@
     "id": "O4",
     "hieroglyph": "𓉔",
     "description": "reed shelter",
-    "pronunciations": [
-      "~h"
-    ],
+    "pronunciations": ["~h"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "O"
   },
   {
@@ -5804,14 +5580,9 @@
     "id": "O34",
     "hieroglyph": "𓊃",
     "description": "door bolt",
-    "pronunciations": [
-      "~s",
-      "~z"
-    ],
+    "pronunciations": ["~s", "~z"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "O"
   },
   {
@@ -5973,16 +5744,16 @@
     "description": "enclosed mound",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "O"
   },
   {
     "id": "O49",
     "hieroglyph": "𓊖",
     "description": "village",
-    "pronunciations": [],
-    "keywords": [],
-    "meta": [],
+    "pronunciations": ["~niwt", "~nwt"],
+    "keywords": ["town", "city"],
+    "meta": [":round"],
     "category": "O"
   },
   {
@@ -5991,7 +5762,7 @@
     "description": "threshing floor",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "O"
   },
   {
@@ -6160,15 +5931,9 @@
     "id": "Q3",
     "hieroglyph": "𓊪",
     "description": "stool",
-    "pronunciations": [
-      "~p"
-    ],
-    "keywords": [
-      "reed mat"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~p"],
+    "keywords": ["reed mat"],
+    "meta": [":uniliteral"],
     "category": "Q"
   },
   {
@@ -6544,13 +6309,9 @@
     "id": "S3",
     "hieroglyph": "𓋔",
     "description": "red crown of Lower Egypt",
-    "pronunciations": [
-      "~n"
-    ],
+    "pronunciations": ["~n"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "S"
   },
   {
@@ -6622,7 +6383,7 @@
     "description": "headband",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "S"
   },
   {
@@ -6631,7 +6392,7 @@
     "description": "broad collar",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "S"
   },
   {
@@ -6748,7 +6509,7 @@
     "description": "ring",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "S"
   },
   {
@@ -6836,13 +6597,9 @@
     "id": "S29",
     "hieroglyph": "𓋴",
     "description": "folded cloth",
-    "pronunciations": [
-      "~s"
-    ],
+    "pronunciations": ["~s"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "S"
   },
   {
@@ -7740,14 +7497,9 @@
     "id": "U33",
     "hieroglyph": "𓍘",
     "description": "pestle",
-    "pronunciations": [
-      "~ti"
-    ],
+    "pronunciations": ["~ti"],
     "keywords": [],
-    "meta": [
-      ":uniliteral",
-      ":biliteral"
-    ],
+    "meta": [":uniliteral", ":biliteral"],
     "category": "U"
   },
   {
@@ -8014,10 +7766,10 @@
   {
     "id": "V9",
     "hieroglyph": "𓍶",
-    "description": "shenring",
+    "description": "shen ring",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "V"
   },
   {
@@ -8096,15 +7848,9 @@
     "id": "V13",
     "hieroglyph": "𓍿",
     "description": "tethering rope or hobble",
-    "pronunciations": [
-      "~T"
-    ],
-    "keywords": [
-      "yours (fem)"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~T"],
+    "keywords": ["yours (fem)"],
+    "meta": [":uniliteral"],
     "category": "V"
   },
   {
@@ -8354,15 +8100,9 @@
     "id": "V28",
     "hieroglyph": "𓎛",
     "description": "twisted flax",
-    "pronunciations": [
-      "~H"
-    ],
-    "keywords": [
-      "wick"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~H"],
+    "keywords": ["wick"],
+    "meta": [":uniliteral"],
     "category": "V"
   },
   {
@@ -8414,15 +8154,9 @@
     "id": "V31",
     "hieroglyph": "𓎡",
     "description": "basket with handle",
-    "pronunciations": [
-      "~k"
-    ],
-    "keywords": [
-      "yours"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~k"],
+    "keywords": ["yours"],
+    "meta": [":uniliteral"],
     "category": "V"
   },
   {
@@ -8447,13 +8181,9 @@
     "id": "V33",
     "hieroglyph": "𓎤",
     "description": "bag of linen",
-    "pronunciations": [
-      "~g"
-    ],
+    "pronunciations": ["~g"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "V"
   },
   {
@@ -8667,17 +8397,9 @@
     "id": "W11",
     "hieroglyph": "𓎼",
     "description": "jar stand",
-    "pronunciations": [
-      "~g"
-    ],
-    "keywords": [
-      "silence",
-      "silent",
-      "quiet"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~g"],
+    "keywords": ["silence", "silent", "quiet"],
+    "meta": [":uniliteral"],
     "category": "W"
   },
   {
@@ -8846,15 +8568,9 @@
     "id": "X1",
     "hieroglyph": "𓏏",
     "description": "loaf of bread",
-    "pronunciations": [
-      "~t"
-    ],
-    "keywords": [
-      "feminine"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "pronunciations": ["~t"],
+    "keywords": ["feminine"],
+    "meta": [":uniliteral"],
     "category": "X"
   },
   {
@@ -8863,7 +8579,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "X"
   },
   {
@@ -8872,7 +8588,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "X"
   },
   {
@@ -8914,10 +8630,10 @@
   {
     "id": "X6",
     "hieroglyph": "𓏖",
-    "description": "loaf-with-decoration",
+    "description": "loaf with decoration",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "X"
   },
   {
@@ -8926,7 +8642,7 @@
     "description": "",
     "pronunciations": [],
     "keywords": [],
-    "meta": [],
+    "meta": [":round"],
     "category": "X"
   },
   {
@@ -9123,12 +8839,8 @@
     "hieroglyph": "𓏭",
     "description": "Dual stroke",
     "pronunciations": [],
-    "keywords": [
-      "2"
-    ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "keywords": ["2"],
+    "meta": [":uniliteral"],
     "category": "Z"
   },
   {
@@ -9171,13 +8883,9 @@
     "id": "Z7",
     "hieroglyph": "𓏲",
     "description": "coil (hieratic equivalent)",
-    "pronunciations": [
-      "~w"
-    ],
+    "pronunciations": ["~w"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "Z"
   },
   {
@@ -9418,12 +9126,7 @@
     "id": "Aa1",
     "hieroglyph": "𓐍",
     "description": "Placenta or sieve",
-    "pronunciations": [
-      "~x",
-      "~xft",
-      "~xr",
-      "~xt"
-    ],
+    "pronunciations": ["~x", "~xft", "~xr", "~xt"],
     "keywords": [
       "in front of",
       "corresponding to",
@@ -9432,9 +9135,7 @@
       "near",
       "things"
     ],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral", ":round"],
     "category": "Aa"
   },
   {
@@ -9491,18 +9192,14 @@
       "needs",
       "requirements"
     ],
-    "meta": [],
+    "meta": [":round"],
     "category": "Aa"
   },
   {
     "id": "Aa3",
     "hieroglyph": "𓐏",
     "description": "Pustule with liquid issuing from it",
-    "pronunciations": [
-      "~As",
-      "~wsSt",
-      "~sT"
-    ],
+    "pronunciations": ["~As", "~wsSt", "~sT"],
     "keywords": [
       "soft tissues",
       "glands",
@@ -9511,20 +9208,15 @@
       "odor",
       "odour"
     ],
-    "meta": [],
+    "meta": [":round"],
     "category": "Aa"
   },
   {
     "id": "Aa4",
     "hieroglyph": "𓐐",
     "description": "",
-    "pronunciations": [
-      "~bA"
-    ],
-    "keywords": [
-      "soul",
-      "variant of W10A"
-    ],
+    "pronunciations": ["~bA"],
+    "keywords": ["soul", "variant of W10A"],
     "meta": [],
     "category": "Aa"
   },
@@ -9532,12 +9224,7 @@
     "id": "Aa5",
     "hieroglyph": "𓐑",
     "description": "Part of steering gear of a ship",
-    "pronunciations": [
-      "~Hpwty",
-      "~Hpy",
-      "~Hpt",
-      "~Hip"
-    ],
+    "pronunciations": ["~Hpwty", "~Hpy", "~Hpt", "~Hip"],
     "keywords": [
       "Apis bull",
       "proceed by boat",
@@ -9553,13 +9240,8 @@
     "id": "Aa6",
     "hieroglyph": "𓐒",
     "description": "",
-    "pronunciations": [
-      "~TmAyt"
-    ],
-    "keywords": [
-      "land survey",
-      "mat"
-    ],
+    "pronunciations": ["~TmAyt"],
+    "keywords": ["land survey", "mat"],
     "meta": [],
     "category": "Aa"
   },
@@ -9567,14 +9249,8 @@
     "id": "Aa7",
     "hieroglyph": "𓐓",
     "description": "A Smiting-Blade",
-    "pronunciations": [
-      "~sqr"
-    ],
-    "keywords": [
-      "blade",
-      "smite",
-      "captive"
-    ],
+    "pronunciations": ["~sqr"],
+    "keywords": ["blade", "smite", "captive"],
     "meta": [],
     "category": "Aa"
   },
@@ -9582,14 +9258,8 @@
     "id": "Aa7A",
     "hieroglyph": "𓐔",
     "description": "A Smiting-Blade",
-    "pronunciations": [
-      "~sqr"
-    ],
-    "keywords": [
-      "blade",
-      "smite",
-      "captive"
-    ],
+    "pronunciations": ["~sqr"],
+    "keywords": ["blade", "smite", "captive"],
     "meta": [],
     "category": "Aa"
   },
@@ -9597,14 +9267,8 @@
     "id": "Aa7B",
     "hieroglyph": "𓐕",
     "description": "A Smiting-Blade variant",
-    "pronunciations": [
-      "~sqr"
-    ],
-    "keywords": [
-      "blade",
-      "smite",
-      "captive"
-    ],
+    "pronunciations": ["~sqr"],
+    "keywords": ["blade", "smite", "captive"],
     "meta": [],
     "category": "Aa"
   },
@@ -9675,13 +9339,9 @@
     "id": "Aa15",
     "hieroglyph": "𓐝",
     "description": "finger",
-    "pronunciations": [
-      "~m"
-    ],
+    "pronunciations": ["~m"],
     "keywords": [],
-    "meta": [
-      ":uniliteral"
-    ],
+    "meta": [":uniliteral"],
     "category": "Aa"
   },
   {
@@ -9841,13 +9501,8 @@
     "id": "NL1",
     "hieroglyph": "𓈠",
     "description": "",
-    "pronunciations": [
-      "~inbw-HD"
-    ],
-    "keywords": [
-      "Nome 1",
-      "Inebu-hedj"
-    ],
+    "pronunciations": ["~inbw-HD"],
+    "keywords": ["Nome 1", "Inebu-hedj"],
     "meta": [],
     "category": "NL"
   },
@@ -9855,13 +9510,8 @@
     "id": "NL2",
     "hieroglyph": "𓈡",
     "description": "",
-    "pronunciations": [
-      "~xpS"
-    ],
-    "keywords": [
-      "Nome 2",
-      "Khepesh"
-    ],
+    "pronunciations": ["~xpS"],
+    "keywords": ["Nome 2", "Khepesh"],
     "meta": [],
     "category": "NL"
   },
