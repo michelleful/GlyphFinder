@@ -20,7 +20,7 @@
             contains the hieroglyph ("mother" or "~mwt").
           </li>
           <li>&nbsp;by shape (one of ":tall", ":low", ":narrow", ":broad, ":round").</li>
-          <li>&nbsp;uniliterals, biliterals, triliterals, or numerals (":uni", ":bi", ":tri", ":num"</li>
+          <li>&nbsp;uniliterals, biliterals, triliterals, or numerals (":uni", ":bi", ":tri", ":num")</li>
         </ul>
         <p>
           For example, the suggested searches above, apart from metadata searches, all retrieve
