@@ -19,19 +19,27 @@
             the meaning or pronunciation of a prominent word that
             contains the hieroglyph ("mother" or "~mwt").
           </li>
-          <li>&nbsp;by shape (one of ":tall", ":low", ":narrow", ":broad, ":round").</li>
-          <li>&nbsp;uniliterals, biliterals, triliterals, or numerals (":uni", ":bi", ":tri", ":num")</li>
         </ul>
         <p>
-          For example, the suggested searches above, apart from metadata searches, all retrieve
+          For example, the suggested searches above all retrieve
           G14
           <span
             class="egyptian"
           >𓅐</span>.
         </p>
+
+        <p>You can also search metadata concerning each hieroglyph, prefixed with a colon:</p>
+        <ul>
+          <li>&nbsp;by shape (one of ":tall", ":low", ":narrow", ":broad, ":round").</li>
+          <li>&nbsp;uniliterals, biliterals, triliterals, or numerals (":uni", ":bi", ":tri", ":num")</li>
+          <li>&nbsp;multiple copies of a single visual element (":multi")</li>
+          <li>&nbsp;complex combinations of different visual elements (":complex")</li>
+        </ul>
         <p>
           To make a suggestion or correction, please
-          <a href="https://github.com/michelleful/GlyphFinder/issues">open an issue on Github</a>.
+          <a
+            href="https://github.com/michelleful/GlyphFinder/issues"
+          >open an issue on Github</a>.
         </p>
       </InfoBox>
       <GardinerCategory

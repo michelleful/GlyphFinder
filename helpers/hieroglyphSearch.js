@@ -7,9 +7,7 @@ search.indexStrategy = new JsSearch.PrefixIndexStrategy();
 var REGEX = /[^a-zа-яё0-9\-:~']+/i;
 search.tokenizer = {
   tokenize(text) {
-    return text.split(REGEX).filter(
-      text => text // Filter empty tokens
-    );
+    return text.split(REGEX).filter(text => text);
   }
 };
 
